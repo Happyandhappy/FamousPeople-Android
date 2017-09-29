@@ -1,0 +1,211 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Manifest Merging:
+-----------------
+Your project uses libraries that provide manifests, and your Eclipse
+project did not explicitly turn on manifest merging. In Android Gradle
+projects, manifests are always merged (meaning that contents from your
+libraries' manifests will be merged into the app manifest. If you had
+manually copied contents from library manifests into your app manifest
+you may need to remove these for the app to build correctly.
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* .DS_Store
+* .idea\
+* .idea\.name
+* .idea\FamousPeople.iml
+* .idea\compiler.xml
+* .idea\copyright\
+* .idea\copyright\profiles_settings.xml
+* .idea\encodings.xml
+* .idea\misc.xml
+* .idea\modules.xml
+* .idea\scopes\
+* .idea\scopes\scope_settings.xml
+* .idea\vcs.xml
+* .idea\workspace.xml
+* ic_launcher-web.png
+* proguard-project.txt
+
+Replaced Jars with Dependencies:
+--------------------------------
+The importer recognized the following .jar files as third party
+libraries and replaced them with Gradle dependencies instead. This has
+the advantage that more explicit version information is known, and the
+libraries can be updated automatically. However, it is possible that
+the .jar file in your project was of an older version than the
+dependency we picked, which could render the project not compileable.
+You can disable the jar replacement in the import wizard and try again:
+
+android-support-v4.jar => com.android.support:support-v4:21.0.3
+android-support-v7-appcompat.jar => com.android.support:appcompat-v7:21.0.3
+
+Replaced Libraries with Dependencies:
+-------------------------------------
+The importer recognized the following library projects as third party
+libraries and replaced them with Gradle dependencies instead. This has
+the advantage that more explicit version information is known, and the
+libraries can be updated automatically. However, it is possible that
+the source files in your project were of an older version than the
+dependency we picked, which could render the project not compileable.
+You can disable the library replacement in the import wizard and try
+again:
+
+google-play-services_lib => [com.google.android.gms:play-services:+]
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* AndroidManifest.xml => app\src\main\AndroidManifest.xml
+* assets\ => app\src\main\assets\
+* libs\AdTrackSDK_v1_0.jar => app\libs\AdTrackSDK_v1_0.jar
+* libs\apache-mime4j-0.6.jar => app\libs\apache-mime4j-0.6.jar
+* libs\armeabi-v7a\libfaceengine.so => app\src\main\jniLibs\armeabi-v7a\libfaceengine.so
+* libs\armeabi\libfaceengine.so => app\src\main\jniLibs\armeabi\libfaceengine.so
+* libs\FiveAd.jar => app\libs\FiveAd.jar
+* libs\httpmime-4.0.1.jar => app\libs\httpmime-4.0.1.jar
+* libs\imobileSdkAds.jar => app\libs\imobileSdkAds.jar
+* libs\nendSDK-2.6.1.jar => app\libs\nendSDK-2.6.1.jar
+* libs\partytrack.jar => app\libs\partytrack.jar
+* libs\suru-pass.jar => app\libs\suru-pass.jar
+* libs\tapjoyconnectlibrary.jar => app\libs\tapjoyconnectlibrary.jar
+* lint.xml => app\lint.xml
+* res\ => app\src\main\res\
+* res\drawable\ => app\src\main\java\
+* res\drawable\ad.png => app\src\main\resources\ad.png
+* res\drawable\album_0.png => app\src\main\resources\album_0.png
+* res\drawable\album_1.png => app\src\main\resources\album_1.png
+* res\drawable\b_0.png => app\src\main\resources\b_0.png
+* res\drawable\b_1.png => app\src\main\resources\b_1.png
+* res\drawable\btn_facebook_0.png => app\src\main\resources\btn_facebook_0.png
+* res\drawable\btn_facebook_1.png => app\src\main\resources\btn_facebook_1.png
+* res\drawable\btn_line_0.png => app\src\main\resources\btn_line_0.png
+* res\drawable\btn_line_1.png => app\src\main\resources\btn_line_1.png
+* res\drawable\btn_twitter_0.png => app\src\main\resources\btn_twitter_0.png
+* res\drawable\btn_twitter_1.png => app\src\main\resources\btn_twitter_1.png
+* res\drawable\camera_0.png => app\src\main\resources\camera_0.png
+* res\drawable\camera_1.png => app\src\main\resources\camera_1.png
+* res\drawable\cell_delete_normal.png => app\src\main\resources\cell_delete_normal.png
+* res\drawable\cell_delete_pressed.png => app\src\main\resources\cell_delete_pressed.png
+* res\drawable\cos_checked.png => app\src\main\resources\cos_checked.png
+* res\drawable\cos_normal.png => app\src\main\resources\cos_normal.png
+* res\drawable\crown.png => app\src\main\resources\crown.png
+* res\drawable\doctor.png => app\src\main\resources\doctor.png
+* res\drawable\doctor2.png => app\src\main\resources\doctor2.png
+* res\drawable\emoji_back_normal.png => app\src\main\resources\emoji_back_normal.png
+* res\drawable\emoji_back_press.png => app\src\main\resources\emoji_back_press.png
+* res\drawable\emoji_class.png => app\src\main\resources\emoji_class.png
+* res\drawable\emoji_entry_album.png => app\src\main\resources\emoji_entry_album.png
+* res\drawable\emoji_entry_album_pressed.png => app\src\main\resources\emoji_entry_album_pressed.png
+* res\drawable\emoji_hair1.png => app\src\main\resources\emoji_hair1.png
+* res\drawable\emoji_hair1_press.png => app\src\main\resources\emoji_hair1_press.png
+* res\drawable\emoji_hair2.png => app\src\main\resources\emoji_hair2.png
+* res\drawable\emoji_hair2_press.png => app\src\main\resources\emoji_hair2_press.png
+* res\drawable\emoji_hair3.png => app\src\main\resources\emoji_hair3.png
+* res\drawable\emoji_hair3_press.png => app\src\main\resources\emoji_hair3_press.png
+* res\drawable\emoji_hair4.png => app\src\main\resources\emoji_hair4.png
+* res\drawable\emoji_hair4_press.png => app\src\main\resources\emoji_hair4_press.png
+* res\drawable\emoji_item_background_normal.png => app\src\main\resources\emoji_item_background_normal.png
+* res\drawable\emoji_item_background_press.png => app\src\main\resources\emoji_item_background_press.png
+* res\drawable\emoji_share_quit_btn.png => app\src\main\resources\emoji_share_quit_btn.png
+* res\drawable\emoji_share_quit_btn_pressed.png => app\src\main\resources\emoji_share_quit_btn_pressed.png
+* res\drawable\facedetection_back2.png => app\src\main\resources\facedetection_back2.png
+* res\drawable\gender_string.png => app\src\main\resources\gender_string.png
+* res\drawable\gif3_backbottom.png => app\src\main\resources\gif3_backbottom.png
+* res\drawable\gif3_backtop.png => app\src\main\resources\gif3_backtop.png
+* res\drawable\gif3_chkbtn.png => app\src\main\resources\gif3_chkbtn.png
+* res\drawable\gif3_chkbtn_press.png => app\src\main\resources\gif3_chkbtn_press.png
+* res\drawable\i_share_site_facebook_normal.png => app\src\main\resources\i_share_site_facebook_normal.png
+* res\drawable\i_share_site_facebook_pressed.png => app\src\main\resources\i_share_site_facebook_pressed.png
+* res\drawable\i_share_site_line_normal.png => app\src\main\resources\i_share_site_line_normal.png
+* res\drawable\i_share_site_line_pressed.png => app\src\main\resources\i_share_site_line_pressed.png
+* res\drawable\i_share_site_mail_normal.png => app\src\main\resources\i_share_site_mail_normal.png
+* res\drawable\i_share_site_mail_pressed.png => app\src\main\resources\i_share_site_mail_pressed.png
+* res\drawable\i_share_site_twitter_normal.png => app\src\main\resources\i_share_site_twitter_normal.png
+* res\drawable\i_share_site_twitter_pressed.png => app\src\main\resources\i_share_site_twitter_pressed.png
+* res\drawable\ic_launcher.png => app\src\main\resources\ic_launcher.png
+* res\drawable\ic_launcher00.png => app\src\main\resources\ic_launcher00.png
+* res\drawable\leftarrow_disabled.png => app\src\main\resources\leftarrow_disabled.png
+* res\drawable\leftarrow_normal.png => app\src\main\resources\leftarrow_normal.png
+* res\drawable\leftarrow_pressed.png => app\src\main\resources\leftarrow_pressed.png
+* res\drawable\logo.png => app\src\main\resources\logo.png
+* res\drawable\logo00.png => app\src\main\resources\logo00.png
+* res\drawable\logo000.png => app\src\main\resources\logo000.png
+* res\drawable\logo0000.png => app\src\main\resources\logo0000.png
+* res\drawable\logo2.png => app\src\main\resources\logo2.png
+* res\drawable\m_0.png => app\src\main\resources\m_0.png
+* res\drawable\m_1.png => app\src\main\resources\m_1.png
+* res\drawable\main_button_4.png => app\src\main\resources\main_button_4.png
+* res\drawable\main_button_4_pressed.png => app\src\main\resources\main_button_4_pressed.png
+* res\drawable\make_0.png => app\src\main\resources\make_0.png
+* res\drawable\make_1.png => app\src\main\resources\make_1.png
+* res\drawable\maskbottom1.png => app\src\main\resources\maskbottom1.png
+* res\drawable\myrankmark.png => app\src\main\resources\myrankmark.png
+* res\drawable\page_logo.png => app\src\main\resources\page_logo.png
+* res\drawable\r_signup_0.png => app\src\main\resources\r_signup_0.png
+* res\drawable\r_signup_1.png => app\src\main\resources\r_signup_1.png
+* res\drawable\ranking_close.png => app\src\main\resources\ranking_close.png
+* res\drawable\ranking_closs.png => app\src\main\resources\ranking_closs.png
+* res\drawable\ranking_lock.png => app\src\main\resources\ranking_lock.png
+* res\drawable\ranking_mar.png => app\src\main\resources\ranking_mar.png
+* res\drawable\ranking_open_0.png => app\src\main\resources\ranking_open_0.png
+* res\drawable\ranking_open_1.png => app\src\main\resources\ranking_open_1.png
+* res\drawable\recognitionresult_back1.png => app\src\main\resources\recognitionresult_back1.png
+* res\drawable\result.png => app\src\main\resources\result.png
+* res\drawable\result_a.png => app\src\main\resources\result_a.png
+* res\drawable\result_b.png => app\src\main\resources\result_b.png
+* res\drawable\result_btn.png => app\src\main\resources\result_btn.png
+* res\drawable\result_c.png => app\src\main\resources\result_c.png
+* res\drawable\result_click_btn.png => app\src\main\resources\result_click_btn.png
+* res\drawable\result_d.png => app\src\main\resources\result_d.png
+* res\drawable\result_e.png => app\src\main\resources\result_e.png
+* res\drawable\result_s.png => app\src\main\resources\result_s.png
+* res\drawable\result_z.png => app\src\main\resources\result_z.png
+* res\drawable\rightarrow_disabled.png => app\src\main\resources\rightarrow_disabled.png
+* res\drawable\rightarrow_normal.png => app\src\main\resources\rightarrow_normal.png
+* res\drawable\rightarrow_pressed.png => app\src\main\resources\rightarrow_pressed.png
+* res\drawable\rogo_top.png => app\src\main\resources\rogo_top.png
+* res\drawable\s_0.png => app\src\main\resources\s_0.png
+* res\drawable\s_1.png => app\src\main\resources\s_1.png
+* res\drawable\scope.png => app\src\main\resources\scope.png
+* res\drawable\search.png => app\src\main\resources\search.png
+* res\drawable\search_pressed.png => app\src\main\resources\search_pressed.png
+* res\drawable\splash.png => app\src\main\resources\splash.png
+* res\drawable\start_0.png => app\src\main\resources\start_0.png
+* res\drawable\start_1.png => app\src\main\resources\start_1.png
+* res\drawable\string.png => app\src\main\resources\string.png
+* res\drawable\synchro.png => app\src\main\resources\synchro.png
+* res\drawable\test.png => app\src\main\resources\test.png
+* res\drawable\text.png => app\src\main\resources\text.png
+* res\drawable\Thumbs.db => app\src\main\resources\Thumbs.db
+* res\drawable\totalrankmark.png => app\src\main\resources\totalrankmark.png
+* res\drawable\v_0.png => app\src\main\resources\v_0.png
+* res\drawable\v_1.png => app\src\main\resources\v_1.png
+* res\drawable\view1bg.png => app\src\main\resources\view1bg.png
+* res\drawable\view2title.png => app\src\main\resources\view2title.png
+* res\drawable\w_0.png => app\src\main\resources\w_0.png
+* res\drawable\w_1.png => app\src\main\resources\w_1.png
+* src\ => app\src\main\java\
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)

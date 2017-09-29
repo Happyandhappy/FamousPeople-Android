@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">有名人診断</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_gif__sel_pic">Gif_SelPic</string>
+    <string name="title_activity_gifselmedia">MainActivity</string>
+    <string name="title_activity_gif_sel_media">GifSelMediaActivity</string>
+    <string name="title_activity_gif_face_detect">GifFaceDetectActivity</string>
+    <string name="title_activity_gif_face_detect_fragment">GifFaceDetectFragment</string>
+    <string name="title_activity_gif_face_mask">GifFaceMaskActivity</string>
+    <string name="title_activity_gif_make">GifMakeActivity</string>
+    <string name="title_activity_gif_factory">GifFactoryActivity</string>
+    <string name="title_activity_fsanalyse_result">FSAnalyseResultActivity</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="rankingimage_register_spin">
+		<item>画像を登録する</item>
+		<item>画像を登録しない</item>
+	</string-array>
+	
+    <string-array name="rankingtype_spin">
+		<item>選択</item>
+	</string-array>
+
+</resources>

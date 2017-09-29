@@ -1,0 +1,90 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ImageSelectionActivity" >
+    
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#FFFFFF"
+        android:orientation="vertical" >
+        
+         <RelativeLayout
+             android:layout_width="match_parent"
+             android:layout_height="50dp"
+             android:background="#333333"
+             android:orientation="vertical" >
+
+		    <Button
+		        android:id="@+id/btn_backto_category"
+		        android:layout_width="wrap_content"
+		        android:layout_height="match_parent"
+		        android:layout_alignParentLeft="true"
+		        android:layout_centerVertical="true"
+		        android:layout_marginLeft="23dp"
+		        android:background="@xml/button_back"
+		        android:minHeight="12dp"
+		        android:minWidth="40dip"
+		        android:text="戻る"
+		        android:textColor="#ffffff"
+		        android:textSize="15sp" />
+
+		    <TextView
+		        android:id="@+id/textView_imageselection"
+		        android:layout_width="wrap_content"
+		        android:layout_height="match_parent"
+		        android:layout_alignTop="@+id/btn_backto_main"
+		        android:layout_centerHorizontal="true"
+		        android:gravity="center"
+		        android:text="有名人診断"
+		        android:textAppearance="?android:attr/textAppearanceMedium"
+		        android:textColor="#FFFFFF" />
+
+	   </RelativeLayout>
+	   
+       <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1.0"
+        android:orientation="vertical" >
+
+		               <ImageView
+		                   android:id="@+id/rareImageView"
+		                   android:layout_width="210dp"
+		                   android:layout_height="105dp"
+		                   android:layout_weight="1"
+		                   android:layout_marginTop="50dp"
+		                   android:scaleType="fitCenter"
+		                   android:layout_gravity="top|center"
+		                   android:src="@drawable/page_logo" />
+
+		               <ImageButton
+		                   android:id="@+id/btn_camera"
+		                   android:layout_width="200dp"
+		                   android:layout_height="80dp"
+		                   android:layout_weight="1"
+		                   android:layout_gravity="center"
+		                   android:layout_marginBottom="20dp"
+		                   android:background="@xml/img_button_camera" />
+
+		               <ImageButton
+		                   android:id="@+id/btn_album"
+		                   android:layout_width="200dp"
+		                   android:layout_height="80dp"
+		                   android:layout_marginBottom="105dp"
+		                   android:layout_gravity="bottom|center"
+		                   android:background="@xml/img_button_album" />
+
+	   </FrameLayout>
+	   
+       <LinearLayout
+           android:id="@+id/LinearLayoutInterstitialBottom"
+           android:layout_width="match_parent"
+           android:layout_height="57dp"
+           android:background="#FF8877"
+           android:orientation="horizontal" >
+
+         </LinearLayout>
+    </LinearLayout>
+</RelativeLayout>

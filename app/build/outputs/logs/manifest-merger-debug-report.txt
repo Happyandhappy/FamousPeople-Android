@@ -1,0 +1,661 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\AndroidStudio_Work\FamousPeople\app\src\main\AndroidManifest.xml:2:1-202:12
+	package
+		ADDED from D:\AndroidStudio_Work\FamousPeople\app\src\main\AndroidManifest.xml:3:5-43
+		INJECTED from D:\AndroidStudio_Work\FamousPeople\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidStudio_Work\FamousPeople\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\AndroidStudio_Work\FamousPeople\app\src\main\AndroidManifest.xml:5:5-31
+		INJECTED from D:\AndroidStudio_Work\FamousPeople\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidStudio_Work\FamousPeople\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from D:\AndroidStudio_Work\FamousPeople\app\src\main\AndroidManifest.xml:4:5-29
+		INJECTED from D:\AndroidStudio_Work\FamousPeople\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidStudio_Work\FamousPeople\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\AndroidStudio_Work\FamousPeople\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.CAMERA
+ADDED from D:\AndroidStudio_Work\FamousPeople\app\src\main\AndroidManifest.xml:7:5-65
+	android:name
+		ADDED from D:\AndroidStudio_Work\FamousPeople\app\src\main\AndroidManifest.xml:7:22-62
+uses-feature#android.hardware.camera
+ADDED from D:\AndroidStudio_Work\FamousPeople\app\src\main\AndroidManifest.xml:9:5-60
+	android:name
+		ADDED from D:\AndroidStudio_Work\FamousPeople\app\src\main\AndroidManifest.xml:9:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from D:\AndroidStudio_Work\FamousPeople\app\src\main\AndroidManifest.xml:10:5-70
+	android:name
+		ADDED from D:\AndroidStudio_Work\FamousPeople\app\src\main\AndroidManifest.xml:10:19-67
+uses-permission#android.permission.DISABLE_KEYGUARD
+ADDED from D:\AndroidStudio_Work\FamousPeople\app\src\main\AndroidManifest.xml:12:5-75
+	android:name
+		ADDED from D:\AndroidStudio_Work\FamousPeople\app\src\main\AndroidManifest.xml:12:22-72
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\AndroidStudio_Work\FamousPeople\app\src\main\AndroidManifest.xml:13:5-81
+	android:name
+		ADDED from D:\AndroidStudio_Work\FamousPeople\app\src\main\AndroidManifest.xml:13:22-78
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\AndroidStudio_Work\FamousPeople\app\src\main\AndroidManifest.xml:14:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:10.2.6] C:\Users\LIUWEI\.android\build-cache\60c7114f2e7294eb1b3f5b848a7bda2df00081b6\output\AndroidManifest.xml:20:5-78
+MERGED from [com.google.android.gms:play-services-analytics:10.2.6] C:\Users\LIUWEI\.android\build-cache\c28ff4e60a222f9be7a042b2920e38af248edf4a\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-nearby:10.2.6] C:\Users\LIUWEI\.android\build-cache\450feeca45ef29ac27eda82189dc3f335867f799\output\AndroidManifest.xml:4:5-78
+MERGED from [com.google.android.gms:play-services-tagmanager-api:10.2.6] C:\Users\LIUWEI\.android\build-cache\3fc390163221e84d8c4ab15a3513429ad648bc25\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics:10.2.6] C:\Users\LIUWEI\.android\build-cache\743ef5fdbdc21d680c60ba679d25d3a11c68358d\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.6] C:\Users\LIUWEI\.android\build-cache\cdd22f94a7b602ed97811b82949935e45f887b44\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\LIUWEI\.android\build-cache\372f23a9f18d4ae75355fbca14e826749d094c82\output\AndroidManifest.xml:19:5-78
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.6] C:\Users\LIUWEI\.android\build-cache\5c6fb97e67feb9e76719271e6f5eb24e0decd79a\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-maps:10.2.6] C:\Users\LIUWEI\.android\build-cache\edbd3c1ae92d5c8f7c1e11bcf800e118b6cd10b6\output\AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from D:\AndroidStudio_Work\FamousPeople\app\src\main\AndroidManifest.xml:14:22-76
+uses-permission#android.permission.INTERNET
+ADDED from D:\AndroidStudio_Work\FamousPeople\app\src\main\AndroidManifest.xml:15:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:10.2.6] C:\Users\LIUWEI\.android\build-cache\60c7114f2e7294eb1b3f5b848a7bda2df00081b6\output\AndroidManifest.xml:19:5-66
+MERGED from [com.google.android.gms:play-services-analytics:10.2.6] C:\Users\LIUWEI\.android\build-cache\c28ff4e60a222f9be7a042b2920e38af248edf4a\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-appinvite:10.2.6] C:\Users\LIUWEI\.android\build-cache\3b3240bd214d13225d4882392922f04a6aa96b01\output\AndroidManifest.xml:18:5-66
+MERGED from [com.google.firebase:firebase-crash:10.2.6] C:\Users\LIUWEI\.android\build-cache\c4528d074d33b92ca6f98bcb01a369d9cfdfe663\output\AndroidManifest.xml:18:5-66
+MERGED from [com.google.android.gms:play-services-gcm:10.2.6] C:\Users\LIUWEI\.android\build-cache\0962c7723070f4bca339839d05ecb9f7a64a2a82\output\AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-iid:10.2.6] C:\Users\LIUWEI\.android\build-cache\0d1339d0a2dddeb2b6eb5f8e7bcc451884bd5a01\output\AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-tagmanager-api:10.2.6] C:\Users\LIUWEI\.android\build-cache\3fc390163221e84d8c4ab15a3513429ad648bc25\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics:10.2.6] C:\Users\LIUWEI\.android\build-cache\743ef5fdbdc21d680c60ba679d25d3a11c68358d\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.6] C:\Users\LIUWEI\.android\build-cache\cdd22f94a7b602ed97811b82949935e45f887b44\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\LIUWEI\.android\build-cache\372f23a9f18d4ae75355fbca14e826749d094c82\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.6] C:\Users\LIUWEI\.android\build-cache\5c6fb97e67feb9e76719271e6f5eb24e0decd79a\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-maps:10.2.6] C:\Users\LIUWEI\.android\build-cache\edbd3c1ae92d5c8f7c1e11bcf800e118b6cd10b6\output\AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from D:\AndroidStudio_Work\FamousPeople\app\src\main\AndroidManifest.xml:15:22-64
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from D:\AndroidStudio_Work\FamousPeople\app\src\main\AndroidManifest.xml:16:5-75
+	android:name
+		ADDED from D:\AndroidStudio_Work\FamousPeople\app\src\main\AndroidManifest.xml:16:22-72
+uses-sdk
+ADDED from D:\AndroidStudio_Work\FamousPeople\app\src\main\AndroidManifest.xml:18:5-20:41
+MERGED from [com.android.support:multidex:1.0.1] C:\Users\LIUWEI\.android\build-cache\a1d335793810d28a1b46bfbfcdb2e1f81ee0cc4a\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services:10.2.6] C:\Users\LIUWEI\.android\build-cache\4fd345b0251cf46a91ba095929dc341d585942f8\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-ads:10.2.6] C:\Users\LIUWEI\.android\build-cache\48287b8a15f576e27650e42b999659ea613f21b4\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-ads-lite:10.2.6] C:\Users\LIUWEI\.android\build-cache\60c7114f2e7294eb1b3f5b848a7bda2df00081b6\output\AndroidManifest.xml:22:5-43
+MERGED from [com.google.android.gms:play-services-analytics:10.2.6] C:\Users\LIUWEI\.android\build-cache\c28ff4e60a222f9be7a042b2920e38af248edf4a\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-appinvite:10.2.6] C:\Users\LIUWEI\.android\build-cache\3b3240bd214d13225d4882392922f04a6aa96b01\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-auth:10.2.6] C:\Users\LIUWEI\.android\build-cache\90fe7dab7c0dbef7f7ac6ea4b9ed769e97958347\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-auth-base:10.2.6] C:\Users\LIUWEI\.android\build-cache\24b120ca2b8f38c253ab3a0399b8dd9033b504e1\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-cast-framework:10.2.6] C:\Users\LIUWEI\.android\build-cache\e5477cc9a3e9a418e04aa4a18e770fb135b73a36\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-cast:10.2.6] C:\Users\LIUWEI\.android\build-cache\e0c0be60ec046d41e1f00c85458e6a06ad3cac29\output\AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:mediarouter-v7:25.2.0] C:\Users\LIUWEI\.android\build-cache\e14ab2e50c47053148cc4be8be31aafb39298dc1\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:25.2.0] C:\Users\LIUWEI\.android\build-cache\ae9ee05ee0d3d5a484598b2f5fd2cbeb528ae167\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] C:\Users\LIUWEI\.android\build-cache\4205d8d0c9ea78ce4ed8d30df60442d1d70f94eb\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.2.0] C:\Users\LIUWEI\.android\build-cache\d235a020c39db3375cb8dd1b753cc03ef4452d5d\output\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:palette-v7:25.2.0] C:\Users\LIUWEI\.android\build-cache\d01303af8ecc4ae0c7dd7169581c233f5c151258\output\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-clearcut:10.2.6] C:\Users\LIUWEI\.android\build-cache\41503132b07605c4393add27b63a62a1c593500a\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-config:10.2.6] C:\Users\LIUWEI\.android\build-cache\31da10391c7e851ed650ae355086578d302f8961\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-awareness:10.2.6] C:\Users\LIUWEI\.android\build-cache\53f85cf051095dbb36e0e375c11eb5053bc533ff\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-crash:10.2.6] C:\Users\LIUWEI\.android\build-cache\c4528d074d33b92ca6f98bcb01a369d9cfdfe663\output\AndroidManifest.xml:20:5-43
+MERGED from [com.google.firebase:firebase-auth:10.2.6] C:\Users\LIUWEI\.android\build-cache\9c8a4026a6f1ed167463575677abf8df2171dcab\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-database:10.2.6] C:\Users\LIUWEI\.android\build-cache\d9b1f6ce3d433f3f0bd05a42d94f1fa2f20da103\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-database-connection:10.2.6] C:\Users\LIUWEI\.android\build-cache\f1adda204fda505c1d186667489235676bd20bc4\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-messaging:10.2.6] C:\Users\LIUWEI\.android\build-cache\7a45b4d6fa5dffde7f40c185d3cf475a21c9cee3\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-storage:10.2.6] C:\Users\LIUWEI\.android\build-cache\060f78a729437003981c59407433ff3fef4203a7\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-storage-common:10.2.6] C:\Users\LIUWEI\.android\build-cache\8687d2ba3d238053543896eb3bb3e833732e8bcf\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-fitness:10.2.6] C:\Users\LIUWEI\.android\build-cache\72db04b83cddc0696a44ef8c871c17a0199b8122\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-games:10.2.6] C:\Users\LIUWEI\.android\build-cache\631bbe55966f8e16a36ba9e69a7445fb85c3c345\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-drive:10.2.6] C:\Users\LIUWEI\.android\build-cache\181de450c3f80a3dd2598117771a272588e622f9\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-gass:10.2.6] C:\Users\LIUWEI\.android\build-cache\077985aa326d262f4169755871e854986b214b8a\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-gcm:10.2.6] C:\Users\LIUWEI\.android\build-cache\0962c7723070f4bca339839d05ecb9f7a64a2a82\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-appindexing:10.2.6] C:\Users\LIUWEI\.android\build-cache\ea28419938c19f34798780692a1cf6418c19856b\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-iid:10.2.6] C:\Users\LIUWEI\.android\build-cache\0d1339d0a2dddeb2b6eb5f8e7bcc451884bd5a01\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-instantapps:10.2.6] C:\Users\LIUWEI\.android\build-cache\5fccf2900c62ff64344a67f4df7af631f51fcb57\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-location:10.2.6] C:\Users\LIUWEI\.android\build-cache\8611b7254124ebe6e5a6cb97f906d7b34be5ac27\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-nearby:10.2.6] C:\Users\LIUWEI\.android\build-cache\450feeca45ef29ac27eda82189dc3f335867f799\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-panorama:10.2.6] C:\Users\LIUWEI\.android\build-cache\c778e6a35ed48ece723b8da42bc18bca169a27d8\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-places:10.2.6] C:\Users\LIUWEI\.android\build-cache\a56dc545da2331c4637df6a7907c983d9ca0db6c\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-plus:10.2.6] C:\Users\LIUWEI\.android\build-cache\947dd7379001f366c7d203bbfe958def6a11ef51\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-safetynet:10.2.6] C:\Users\LIUWEI\.android\build-cache\991efaf65c1665d77fe54f1eacf5bfbe4b9a4131\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager:10.2.6] C:\Users\LIUWEI\.android\build-cache\53189bca60c47247a4c8097ed655c1154421cc87\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager-api:10.2.6] C:\Users\LIUWEI\.android\build-cache\3fc390163221e84d8c4ab15a3513429ad648bc25\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics:10.2.6] C:\Users\LIUWEI\.android\build-cache\743ef5fdbdc21d680c60ba679d25d3a11c68358d\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.6] C:\Users\LIUWEI\.android\build-cache\cdd22f94a7b602ed97811b82949935e45f887b44\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\LIUWEI\.android\build-cache\372f23a9f18d4ae75355fbca14e826749d094c82\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-common:10.2.6] C:\Users\LIUWEI\.android\build-cache\7e4406fde6325141a6be5330c8ed6c3cd09bd358\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:10.2.6] C:\Users\LIUWEI\.android\build-cache\f6ceebd36984fc45f53e54473a9bfc9c5a0cda99\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.6] C:\Users\LIUWEI\.android\build-cache\5c6fb97e67feb9e76719271e6f5eb24e0decd79a\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-vision:10.2.6] C:\Users\LIUWEI\.android\build-cache\ba3f78a459e9d9cd432d8ae0e958efec265a6f1d\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-wallet:10.2.6] C:\Users\LIUWEI\.android\build-cache\5f24602e72bb008dc9fac2ac16657906f6339934\output\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-identity:10.2.6] C:\Users\LIUWEI\.android\build-cache\12b69fa7e892982aa34f56d32e387f5c25226542\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-maps:10.2.6] C:\Users\LIUWEI\.android\build-cache\edbd3c1ae92d5c8f7c1e11bcf800e118b6cd10b6\output\AndroidManifest.xml:23:5-43
+MERGED from [com.google.android.gms:play-services-wearable:10.2.6] C:\Users\LIUWEI\.android\build-cache\39a8032a5262cc7f8f60dedb701fd968d9db5647\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:10.2.6] C:\Users\LIUWEI\.android\build-cache\dddcede6e66ff96e43e7d948a5c7721eeae8695c\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tasks:10.2.6] C:\Users\LIUWEI\.android\build-cache\533c03fc555c058a8fae871728d9cb3957892a09\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:10.2.6] C:\Users\LIUWEI\.android\build-cache\5f06b335e642850aa30ca525f1e184775150ca5e\output\AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\LIUWEI\.android\build-cache\b64e334812724ae853848811d21566e5e97c7899\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\LIUWEI\.android\build-cache\bd1dec7de7610de7393cc501696966d43eb22e74\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\LIUWEI\.android\build-cache\d0dbbbc2faeb33a91a9958852a8109f15990ea1e\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\LIUWEI\.android\build-cache\93f484a9b4ff8d9f61d12796263345ebaf394d20\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\LIUWEI\.android\build-cache\5ba35744f15e6fc20cce662d21967ebd2576cfe4\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\LIUWEI\.android\build-cache\d2dfc1c06da31d9eef61f35e970fe9817a7df94b\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.2.0] C:\Users\LIUWEI\.android\build-cache\ae9ee05ee0d3d5a484598b2f5fd2cbeb528ae167\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		ADDED from D:\AndroidStudio_Work\FamousPeople\app\src\main\AndroidManifest.xml:20:9-38
+		INJECTED from D:\AndroidStudio_Work\FamousPeople\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidStudio_Work\FamousPeople\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from D:\AndroidStudio_Work\FamousPeople\app\src\main\AndroidManifest.xml:19:9-35
+		INJECTED from D:\AndroidStudio_Work\FamousPeople\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidStudio_Work\FamousPeople\app\src\main\AndroidManifest.xml
+application
+ADDED from D:\AndroidStudio_Work\FamousPeople\app\src\main\AndroidManifest.xml:22:5-200:19
+MERGED from [com.google.android.gms:play-services:10.2.6] C:\Users\LIUWEI\.android\build-cache\4fd345b0251cf46a91ba095929dc341d585942f8\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite:10.2.6] C:\Users\LIUWEI\.android\build-cache\60c7114f2e7294eb1b3f5b848a7bda2df00081b6\output\AndroidManifest.xml:23:5-27:19
+MERGED from [com.google.android.gms:play-services-analytics:10.2.6] C:\Users\LIUWEI\.android\build-cache\c28ff4e60a222f9be7a042b2920e38af248edf4a\output\AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-appinvite:10.2.6] C:\Users\LIUWEI\.android\build-cache\3b3240bd214d13225d4882392922f04a6aa96b01\output\AndroidManifest.xml:19:5-26:19
+MERGED from [com.google.android.gms:play-services-auth:10.2.6] C:\Users\LIUWEI\.android\build-cache\90fe7dab7c0dbef7f7ac6ea4b9ed769e97958347\output\AndroidManifest.xml:19:5-25:19
+MERGED from [com.google.android.gms:play-services-cast-framework:10.2.6] C:\Users\LIUWEI\.android\build-cache\e5477cc9a3e9a418e04aa4a18e770fb135b73a36\output\AndroidManifest.xml:4:5-8:19
+MERGED from [com.google.android.gms:play-services-cast:10.2.6] C:\Users\LIUWEI\.android\build-cache\e0c0be60ec046d41e1f00c85458e6a06ad3cac29\output\AndroidManifest.xml:18:5-19
+MERGED from [com.android.support:mediarouter-v7:25.2.0] C:\Users\LIUWEI\.android\build-cache\e14ab2e50c47053148cc4be8be31aafb39298dc1\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:25.2.0] C:\Users\LIUWEI\.android\build-cache\ae9ee05ee0d3d5a484598b2f5fd2cbeb528ae167\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] C:\Users\LIUWEI\.android\build-cache\4205d8d0c9ea78ce4ed8d30df60442d1d70f94eb\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.2.0] C:\Users\LIUWEI\.android\build-cache\d235a020c39db3375cb8dd1b753cc03ef4452d5d\output\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:palette-v7:25.2.0] C:\Users\LIUWEI\.android\build-cache\d01303af8ecc4ae0c7dd7169581c233f5c151258\output\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-clearcut:10.2.6] C:\Users\LIUWEI\.android\build-cache\41503132b07605c4393add27b63a62a1c593500a\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.firebase:firebase-config:10.2.6] C:\Users\LIUWEI\.android\build-cache\31da10391c7e851ed650ae355086578d302f8961\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-awareness:10.2.6] C:\Users\LIUWEI\.android\build-cache\53f85cf051095dbb36e0e375c11eb5053bc533ff\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.firebase:firebase-crash:10.2.6] C:\Users\LIUWEI\.android\build-cache\c4528d074d33b92ca6f98bcb01a369d9cfdfe663\output\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-auth:10.2.6] C:\Users\LIUWEI\.android\build-cache\9c8a4026a6f1ed167463575677abf8df2171dcab\output\AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.firebase:firebase-messaging:10.2.6] C:\Users\LIUWEI\.android\build-cache\7a45b4d6fa5dffde7f40c185d3cf475a21c9cee3\output\AndroidManifest.xml:19:5-29:19
+MERGED from [com.google.android.gms:play-services-fitness:10.2.6] C:\Users\LIUWEI\.android\build-cache\72db04b83cddc0696a44ef8c871c17a0199b8122\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-games:10.2.6] C:\Users\LIUWEI\.android\build-cache\631bbe55966f8e16a36ba9e69a7445fb85c3c345\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-drive:10.2.6] C:\Users\LIUWEI\.android\build-cache\181de450c3f80a3dd2598117771a272588e622f9\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-gass:10.2.6] C:\Users\LIUWEI\.android\build-cache\077985aa326d262f4169755871e854986b214b8a\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-gcm:10.2.6] C:\Users\LIUWEI\.android\build-cache\0962c7723070f4bca339839d05ecb9f7a64a2a82\output\AndroidManifest.xml:23:5-19
+MERGED from [com.google.firebase:firebase-appindexing:10.2.6] C:\Users\LIUWEI\.android\build-cache\ea28419938c19f34798780692a1cf6418c19856b\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-iid:10.2.6] C:\Users\LIUWEI\.android\build-cache\0d1339d0a2dddeb2b6eb5f8e7bcc451884bd5a01\output\AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-location:10.2.6] C:\Users\LIUWEI\.android\build-cache\8611b7254124ebe6e5a6cb97f906d7b34be5ac27\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-nearby:10.2.6] C:\Users\LIUWEI\.android\build-cache\450feeca45ef29ac27eda82189dc3f335867f799\output\AndroidManifest.xml:5:5-19
+MERGED from [com.google.android.gms:play-services-panorama:10.2.6] C:\Users\LIUWEI\.android\build-cache\c778e6a35ed48ece723b8da42bc18bca169a27d8\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-places:10.2.6] C:\Users\LIUWEI\.android\build-cache\a56dc545da2331c4637df6a7907c983d9ca0db6c\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-plus:10.2.6] C:\Users\LIUWEI\.android\build-cache\947dd7379001f366c7d203bbfe958def6a11ef51\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-safetynet:10.2.6] C:\Users\LIUWEI\.android\build-cache\991efaf65c1665d77fe54f1eacf5bfbe4b9a4131\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-tagmanager-api:10.2.6] C:\Users\LIUWEI\.android\build-cache\3fc390163221e84d8c4ab15a3513429ad648bc25\output\AndroidManifest.xml:23:5-33:19
+MERGED from [com.google.firebase:firebase-analytics:10.2.6] C:\Users\LIUWEI\.android\build-cache\743ef5fdbdc21d680c60ba679d25d3a11c68358d\output\AndroidManifest.xml:24:5-33:19
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.6] C:\Users\LIUWEI\.android\build-cache\cdd22f94a7b602ed97811b82949935e45f887b44\output\AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\LIUWEI\.android\build-cache\372f23a9f18d4ae75355fbca14e826749d094c82\output\AndroidManifest.xml:28:5-49:19
+MERGED from [com.google.firebase:firebase-common:10.2.6] C:\Users\LIUWEI\.android\build-cache\7e4406fde6325141a6be5330c8ed6c3cd09bd358\output\AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:10.2.6] C:\Users\LIUWEI\.android\build-cache\f6ceebd36984fc45f53e54473a9bfc9c5a0cda99\output\AndroidManifest.xml:19:5-19
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.6] C:\Users\LIUWEI\.android\build-cache\5c6fb97e67feb9e76719271e6f5eb24e0decd79a\output\AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-vision:10.2.6] C:\Users\LIUWEI\.android\build-cache\ba3f78a459e9d9cd432d8ae0e958efec265a6f1d\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-identity:10.2.6] C:\Users\LIUWEI\.android\build-cache\12b69fa7e892982aa34f56d32e387f5c25226542\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-maps:10.2.6] C:\Users\LIUWEI\.android\build-cache\edbd3c1ae92d5c8f7c1e11bcf800e118b6cd10b6\output\AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-wearable:10.2.6] C:\Users\LIUWEI\.android\build-cache\39a8032a5262cc7f8f60dedb701fd968d9db5647\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-base:10.2.6] C:\Users\LIUWEI\.android\build-cache\dddcede6e66ff96e43e7d948a5c7721eeae8695c\output\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:10.2.6] C:\Users\LIUWEI\.android\build-cache\533c03fc555c058a8fae871728d9cb3957892a09\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:10.2.6] C:\Users\LIUWEI\.android\build-cache\5f06b335e642850aa30ca525f1e184775150ca5e\output\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\LIUWEI\.android\build-cache\b64e334812724ae853848811d21566e5e97c7899\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\LIUWEI\.android\build-cache\bd1dec7de7610de7393cc501696966d43eb22e74\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\LIUWEI\.android\build-cache\d0dbbbc2faeb33a91a9958852a8109f15990ea1e\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\LIUWEI\.android\build-cache\93f484a9b4ff8d9f61d12796263345ebaf394d20\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\LIUWEI\.android\build-cache\5ba35744f15e6fc20cce662d21967ebd2576cfe4\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\LIUWEI\.android\build-cache\d2dfc1c06da31d9eef61f35e970fe9817a7df94b\output\AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from D:\AndroidStudio_Work\FamousPeople\app\src\main\AndroidManifest.xml:26:9-41
+	android:hardwareAccelerated
+		ADDED from D:\AndroidStudio_Work\FamousPeople\app\src\main\AndroidManifest.xml:28:9-43
+	android:allowBackup
+		ADDED from D:\AndroidStudio_Work\FamousPeople\app\src\main\AndroidManifest.xml:24:9-35
+	android:icon
+		ADDED from D:\AndroidStudio_Work\FamousPeople\app\src\main\AndroidManifest.xml:25:9-45
+	android:largeHeap
+		ADDED from D:\AndroidStudio_Work\FamousPeople\app\src\main\AndroidManifest.xml:29:9-33
+	android:theme
+		ADDED from D:\AndroidStudio_Work\FamousPeople\app\src\main\AndroidManifest.xml:27:9-56
+	android:name
+		ADDED from D:\AndroidStudio_Work\FamousPeople\app\src\main\AndroidManifest.xml:23:9-64
+activity#com.tapjoy.TJCOffersWebView
+ADDED from D:\AndroidStudio_Work\FamousPeople\app\src\main\AndroidManifest.xml:32:9-34:70
+	android:configChanges
+		ADDED from D:\AndroidStudio_Work\FamousPeople\app\src\main\AndroidManifest.xml:34:6-67
+	android:name
+		ADDED from D:\AndroidStudio_Work\FamousPeople\app\src\main\AndroidManifest.xml:33:6-48
+activity#com.tapjoy.TapjoyVideoView
+ADDED from D:\AndroidStudio_Work\FamousPeople\app\src\main\AndroidManifest.xml:35:3-37:70
+	android:configChanges
+		ADDED from D:\AndroidStudio_Work\FamousPeople\app\src\main\AndroidManifest.xml:37:6-67
+	android:name
+		ADDED from D:\AndroidStudio_Work\FamousPeople\app\src\main\AndroidManifest.xml:36:5-46
+activity#com.tapjoy.TJAdUnitView
+ADDED from D:\AndroidStudio_Work\FamousPeople\app\src\main\AndroidManifest.xml:38:3-42:43
+	android:hardwareAccelerated
+		ADDED from D:\AndroidStudio_Work\FamousPeople\app\src\main\AndroidManifest.xml:42:6-40
+	android:configChanges
+		ADDED from D:\AndroidStudio_Work\FamousPeople\app\src\main\AndroidManifest.xml:40:6-67
+	android:theme
+		ADDED from D:\AndroidStudio_Work\FamousPeople\app\src\main\AndroidManifest.xml:41:6-76
+	android:name
+		ADDED from D:\AndroidStudio_Work\FamousPeople\app\src\main\AndroidManifest.xml:39:6-44
+activity#com.tapjoy.mraid.view.ActionHandler
+ADDED from D:\AndroidStudio_Work\FamousPeople\app\src\main\AndroidManifest.xml:43:3-45:70
+	android:configChanges
+		ADDED from D:\AndroidStudio_Work\FamousPeople\app\src\main\AndroidManifest.xml:45:6-67
+	android:name
+		ADDED from D:\AndroidStudio_Work\FamousPeople\app\src\main\AndroidManifest.xml:44:6-56
+activity#com.tapjoy.mraid.view.Browser
+ADDED from D:\AndroidStudio_Work\FamousPeople\app\src\main\AndroidManifest.xml:46:3-48:70
+	android:configChanges
+		ADDED from D:\AndroidStudio_Work\FamousPeople\app\src\main\AndroidManifest.xml:48:6-67
+	android:name
+		ADDED from D:\AndroidStudio_Work\FamousPeople\app\src\main\AndroidManifest.xml:47:6-50
+activity#jp.co.vantageapps.famous.app.FamousPeopleActivity
+ADDED from D:\AndroidStudio_Work\FamousPeople\app\src\main\AndroidManifest.xml:51:9-55:20
+	android:screenOrientation
+		ADDED from D:\AndroidStudio_Work\FamousPeople\app\src\main\AndroidManifest.xml:54:13-49
+	android:label
+		ADDED from D:\AndroidStudio_Work\FamousPeople\app\src\main\AndroidManifest.xml:53:13-45
+	android:name
+		ADDED from D:\AndroidStudio_Work\FamousPeople\app\src\main\AndroidManifest.xml:52:13-77
+activity#jp.co.vantageapps.famous.app.SplashActivity
+ADDED from D:\AndroidStudio_Work\FamousPeople\app\src\main\AndroidManifest.xml:57:9-72:20
+	android:screenOrientation
+		ADDED from D:\AndroidStudio_Work\FamousPeople\app\src\main\AndroidManifest.xml:60:13-49
+	android:label
+		ADDED from D:\AndroidStudio_Work\FamousPeople\app\src\main\AndroidManifest.xml:59:13-45
+	android:name
+		ADDED from D:\AndroidStudio_Work\FamousPeople\app\src\main\AndroidManifest.xml:58:13-71
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\AndroidStudio_Work\FamousPeople\app\src\main\AndroidManifest.xml:61:13-64:29
+action#android.intent.action.MAIN
+ADDED from D:\AndroidStudio_Work\FamousPeople\app\src\main\AndroidManifest.xml:62:17-69
+	android:name
+		ADDED from D:\AndroidStudio_Work\FamousPeople\app\src\main\AndroidManifest.xml:62:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\AndroidStudio_Work\FamousPeople\app\src\main\AndroidManifest.xml:63:17-77
+	android:name
+		ADDED from D:\AndroidStudio_Work\FamousPeople\app\src\main\AndroidManifest.xml:63:27-74
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from D:\AndroidStudio_Work\FamousPeople\app\src\main\AndroidManifest.xml:66:13-71:29
+action#android.intent.action.VIEW
+ADDED from D:\AndroidStudio_Work\FamousPeople\app\src\main\AndroidManifest.xml:67:11-63
+	android:name
+		ADDED from D:\AndroidStudio_Work\FamousPeople\app\src\main\AndroidManifest.xml:67:19-60
+category#android.intent.category.BROWSABLE
+ADDED from D:\AndroidStudio_Work\FamousPeople\app\src\main\AndroidManifest.xml:68:17-77
+	android:name
+		ADDED from D:\AndroidStudio_Work\FamousPeople\app\src\main\AndroidManifest.xml:68:27-75
+category#android.intent.category.DEFAULT
+ADDED from D:\AndroidStudio_Work\FamousPeople\app\src\main\AndroidManifest.xml:69:17-75
+	android:name
+		ADDED from D:\AndroidStudio_Work\FamousPeople\app\src\main\AndroidManifest.xml:69:27-73
+data
+ADDED from D:\AndroidStudio_Work\FamousPeople\app\src\main\AndroidManifest.xml:70:17-70
+	android:scheme
+		ADDED from D:\AndroidStudio_Work\FamousPeople\app\src\main\AndroidManifest.xml:70:23-68
+activity#jp.co.vantageapps.famous.app.Gif_SelPic
+ADDED from D:\AndroidStudio_Work\FamousPeople\app\src\main\AndroidManifest.xml:74:9-81:20
+	android:screenOrientation
+		ADDED from D:\AndroidStudio_Work\FamousPeople\app\src\main\AndroidManifest.xml:77:13-49
+	android:label
+		ADDED from D:\AndroidStudio_Work\FamousPeople\app\src\main\AndroidManifest.xml:76:13-64
+	android:name
+		ADDED from D:\AndroidStudio_Work\FamousPeople\app\src\main\AndroidManifest.xml:75:13-67
+intent-filter#android.intent.category.LAUNCHER
+ADDED from D:\AndroidStudio_Work\FamousPeople\app\src\main\AndroidManifest.xml:78:13-80:29
+activity#jp.co.vantageapps.famous.app.GifSelMediaActivity
+ADDED from D:\AndroidStudio_Work\FamousPeople\app\src\main\AndroidManifest.xml:83:9-87:20
+	android:screenOrientation
+		ADDED from D:\AndroidStudio_Work\FamousPeople\app\src\main\AndroidManifest.xml:86:13-49
+	android:label
+		ADDED from D:\AndroidStudio_Work\FamousPeople\app\src\main\AndroidManifest.xml:85:13-65
+	android:name
+		ADDED from D:\AndroidStudio_Work\FamousPeople\app\src\main\AndroidManifest.xml:84:13-76
+activity#jp.co.vantageapps.famous.app.GifFaceDetectActivity
+ADDED from D:\AndroidStudio_Work\FamousPeople\app\src\main\AndroidManifest.xml:89:9-93:20
+	android:screenOrientation
+		ADDED from D:\AndroidStudio_Work\FamousPeople\app\src\main\AndroidManifest.xml:92:13-49
+	android:label
+		ADDED from D:\AndroidStudio_Work\FamousPeople\app\src\main\AndroidManifest.xml:91:13-67
+	android:name
+		ADDED from D:\AndroidStudio_Work\FamousPeople\app\src\main\AndroidManifest.xml:90:13-78
+activity#jp.co.vantageapps.famous.app.GifFaceMaskActivity
+ADDED from D:\AndroidStudio_Work\FamousPeople\app\src\main\AndroidManifest.xml:95:9-99:20
+	android:screenOrientation
+		ADDED from D:\AndroidStudio_Work\FamousPeople\app\src\main\AndroidManifest.xml:98:13-49
+	android:label
+		ADDED from D:\AndroidStudio_Work\FamousPeople\app\src\main\AndroidManifest.xml:97:13-65
+	android:name
+		ADDED from D:\AndroidStudio_Work\FamousPeople\app\src\main\AndroidManifest.xml:96:13-76
+activity#jp.co.vantageapps.famous.app.GifMakeActivity
+ADDED from D:\AndroidStudio_Work\FamousPeople\app\src\main\AndroidManifest.xml:101:9-105:20
+	android:screenOrientation
+		ADDED from D:\AndroidStudio_Work\FamousPeople\app\src\main\AndroidManifest.xml:104:13-49
+	android:label
+		ADDED from D:\AndroidStudio_Work\FamousPeople\app\src\main\AndroidManifest.xml:103:13-60
+	android:name
+		ADDED from D:\AndroidStudio_Work\FamousPeople\app\src\main\AndroidManifest.xml:102:13-72
+activity#jp.co.vantageapps.famous.app.GifFactoryActivity
+ADDED from D:\AndroidStudio_Work\FamousPeople\app\src\main\AndroidManifest.xml:107:9-111:20
+	android:screenOrientation
+		ADDED from D:\AndroidStudio_Work\FamousPeople\app\src\main\AndroidManifest.xml:110:13-49
+	android:label
+		ADDED from D:\AndroidStudio_Work\FamousPeople\app\src\main\AndroidManifest.xml:109:13-63
+	android:name
+		ADDED from D:\AndroidStudio_Work\FamousPeople\app\src\main\AndroidManifest.xml:108:13-75
+activity#jp.co.vantageapps.famous.app.FSGenderSelectionActivity
+ADDED from D:\AndroidStudio_Work\FamousPeople\app\src\main\AndroidManifest.xml:113:9-117:20
+	android:screenOrientation
+		ADDED from D:\AndroidStudio_Work\FamousPeople\app\src\main\AndroidManifest.xml:116:13-49
+	android:label
+		ADDED from D:\AndroidStudio_Work\FamousPeople\app\src\main\AndroidManifest.xml:115:13-45
+	android:name
+		ADDED from D:\AndroidStudio_Work\FamousPeople\app\src\main\AndroidManifest.xml:114:13-82
+activity#jp.co.vantageapps.famous.app.FSCategorySelectionActivity
+ADDED from D:\AndroidStudio_Work\FamousPeople\app\src\main\AndroidManifest.xml:119:9-123:20
+	android:screenOrientation
+		ADDED from D:\AndroidStudio_Work\FamousPeople\app\src\main\AndroidManifest.xml:122:13-49
+	android:label
+		ADDED from D:\AndroidStudio_Work\FamousPeople\app\src\main\AndroidManifest.xml:121:13-45
+	android:name
+		ADDED from D:\AndroidStudio_Work\FamousPeople\app\src\main\AndroidManifest.xml:120:13-84
+activity#jp.co.vantageapps.famous.app.ImageSelectionActivity
+ADDED from D:\AndroidStudio_Work\FamousPeople\app\src\main\AndroidManifest.xml:125:9-129:20
+	android:screenOrientation
+		ADDED from D:\AndroidStudio_Work\FamousPeople\app\src\main\AndroidManifest.xml:128:13-49
+	android:label
+		ADDED from D:\AndroidStudio_Work\FamousPeople\app\src\main\AndroidManifest.xml:127:13-45
+	android:name
+		ADDED from D:\AndroidStudio_Work\FamousPeople\app\src\main\AndroidManifest.xml:126:13-79
+activity#jp.co.vantageapps.famous.app.CameraActivity
+ADDED from D:\AndroidStudio_Work\FamousPeople\app\src\main\AndroidManifest.xml:131:9-135:20
+	android:screenOrientation
+		ADDED from D:\AndroidStudio_Work\FamousPeople\app\src\main\AndroidManifest.xml:134:13-49
+	android:label
+		ADDED from D:\AndroidStudio_Work\FamousPeople\app\src\main\AndroidManifest.xml:133:13-45
+	android:name
+		ADDED from D:\AndroidStudio_Work\FamousPeople\app\src\main\AndroidManifest.xml:132:13-71
+activity#jp.co.vantageapps.famous.app.ImageCheckActivity
+ADDED from D:\AndroidStudio_Work\FamousPeople\app\src\main\AndroidManifest.xml:137:9-141:20
+	android:screenOrientation
+		ADDED from D:\AndroidStudio_Work\FamousPeople\app\src\main\AndroidManifest.xml:140:13-49
+	android:label
+		ADDED from D:\AndroidStudio_Work\FamousPeople\app\src\main\AndroidManifest.xml:139:13-45
+	android:name
+		ADDED from D:\AndroidStudio_Work\FamousPeople\app\src\main\AndroidManifest.xml:138:13-75
+activity#jp.co.vantageapps.famous.app.FaceDetectionActivity
+ADDED from D:\AndroidStudio_Work\FamousPeople\app\src\main\AndroidManifest.xml:143:9-147:20
+	android:screenOrientation
+		ADDED from D:\AndroidStudio_Work\FamousPeople\app\src\main\AndroidManifest.xml:146:13-49
+	android:label
+		ADDED from D:\AndroidStudio_Work\FamousPeople\app\src\main\AndroidManifest.xml:145:13-45
+	android:name
+		ADDED from D:\AndroidStudio_Work\FamousPeople\app\src\main\AndroidManifest.xml:144:13-78
+activity#jp.co.vantageapps.famous.app.FSServerConnectionActivity
+ADDED from D:\AndroidStudio_Work\FamousPeople\app\src\main\AndroidManifest.xml:149:9-153:20
+	android:screenOrientation
+		ADDED from D:\AndroidStudio_Work\FamousPeople\app\src\main\AndroidManifest.xml:152:13-49
+	android:label
+		ADDED from D:\AndroidStudio_Work\FamousPeople\app\src\main\AndroidManifest.xml:151:13-45
+	android:name
+		ADDED from D:\AndroidStudio_Work\FamousPeople\app\src\main\AndroidManifest.xml:150:13-83
+activity#jp.co.vantageapps.famous.app.FSRecognitionResultActivity
+ADDED from D:\AndroidStudio_Work\FamousPeople\app\src\main\AndroidManifest.xml:155:9-159:20
+	android:screenOrientation
+		ADDED from D:\AndroidStudio_Work\FamousPeople\app\src\main\AndroidManifest.xml:158:13-49
+	android:label
+		ADDED from D:\AndroidStudio_Work\FamousPeople\app\src\main\AndroidManifest.xml:157:13-45
+	android:name
+		ADDED from D:\AndroidStudio_Work\FamousPeople\app\src\main\AndroidManifest.xml:156:13-84
+activity#jp.co.vantageapps.famous.app.FSRankingRegisterActivity
+ADDED from D:\AndroidStudio_Work\FamousPeople\app\src\main\AndroidManifest.xml:161:9-165:20
+	android:screenOrientation
+		ADDED from D:\AndroidStudio_Work\FamousPeople\app\src\main\AndroidManifest.xml:164:13-49
+	android:label
+		ADDED from D:\AndroidStudio_Work\FamousPeople\app\src\main\AndroidManifest.xml:163:13-45
+	android:name
+		ADDED from D:\AndroidStudio_Work\FamousPeople\app\src\main\AndroidManifest.xml:162:13-82
+activity#jp.co.vantageapps.famous.app.FSRankingShowActivity
+ADDED from D:\AndroidStudio_Work\FamousPeople\app\src\main\AndroidManifest.xml:167:9-171:20
+	android:screenOrientation
+		ADDED from D:\AndroidStudio_Work\FamousPeople\app\src\main\AndroidManifest.xml:170:13-49
+	android:label
+		ADDED from D:\AndroidStudio_Work\FamousPeople\app\src\main\AndroidManifest.xml:169:13-45
+	android:name
+		ADDED from D:\AndroidStudio_Work\FamousPeople\app\src\main\AndroidManifest.xml:168:13-78
+meta-data#com.google.android.gms.version
+ADDED from D:\AndroidStudio_Work\FamousPeople\app\src\main\AndroidManifest.xml:173:9-175:69
+MERGED from [com.google.android.gms:play-services-basement:10.2.6] C:\Users\LIUWEI\.android\build-cache\5f06b335e642850aa30ca525f1e184775150ca5e\output\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from D:\AndroidStudio_Work\FamousPeople\app\src\main\AndroidManifest.xml:175:13-66
+	android:name
+		ADDED from D:\AndroidStudio_Work\FamousPeople\app\src\main\AndroidManifest.xml:174:13-58
+activity#jp.co.vantageapps.famous.app.FSAnalyseResultActivity
+ADDED from D:\AndroidStudio_Work\FamousPeople\app\src\main\AndroidManifest.xml:177:9-181:20
+	android:screenOrientation
+		ADDED from D:\AndroidStudio_Work\FamousPeople\app\src\main\AndroidManifest.xml:180:13-49
+	android:label
+		ADDED from D:\AndroidStudio_Work\FamousPeople\app\src\main\AndroidManifest.xml:179:13-68
+	android:name
+		ADDED from D:\AndroidStudio_Work\FamousPeople\app\src\main\AndroidManifest.xml:178:13-80
+service#jp.co.vantageapps.famous.app.AudioPlayService
+ADDED from D:\AndroidStudio_Work\FamousPeople\app\src\main\AndroidManifest.xml:183:9-185:75
+	android:enabled
+		ADDED from D:\AndroidStudio_Work\FamousPeople\app\src\main\AndroidManifest.xml:184:13-35
+	android:name
+		ADDED from D:\AndroidStudio_Work\FamousPeople\app\src\main\AndroidManifest.xml:185:13-73
+receiver#jp.co.adtrack.android.InstallReceiver
+ADDED from D:\AndroidStudio_Work\FamousPeople\app\src\main\AndroidManifest.xml:188:9-192:14
+	android:exported
+		ADDED from D:\AndroidStudio_Work\FamousPeople\app\src\main\AndroidManifest.xml:188:72-95
+	android:name
+		ADDED from D:\AndroidStudio_Work\FamousPeople\app\src\main\AndroidManifest.xml:188:19-71
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from D:\AndroidStudio_Work\FamousPeople\app\src\main\AndroidManifest.xml:189:4-191:20
+action#com.android.vending.INSTALL_REFERRER
+ADDED from D:\AndroidStudio_Work\FamousPeople\app\src\main\AndroidManifest.xml:190:4-66
+	android:name
+		ADDED from D:\AndroidStudio_Work\FamousPeople\app\src\main\AndroidManifest.xml:190:12-63
+meta-data#ADTRACK_APP_ID
+ADDED from D:\AndroidStudio_Work\FamousPeople\app\src\main\AndroidManifest.xml:194:9-71
+	android:value
+		ADDED from D:\AndroidStudio_Work\FamousPeople\app\src\main\AndroidManifest.xml:194:50-68
+	android:name
+		ADDED from D:\AndroidStudio_Work\FamousPeople\app\src\main\AndroidManifest.xml:194:20-49
+meta-data#ADTRACK_SERVER_URL
+ADDED from D:\AndroidStudio_Work\FamousPeople\app\src\main\AndroidManifest.xml:195:3-197:92
+	android:value
+		ADDED from D:\AndroidStudio_Work\FamousPeople\app\src\main\AndroidManifest.xml:197:7-89
+	android:name
+		ADDED from D:\AndroidStudio_Work\FamousPeople\app\src\main\AndroidManifest.xml:196:7-40
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:10.2.6] C:\Users\LIUWEI\.android\build-cache\60c7114f2e7294eb1b3f5b848a7bda2df00081b6\output\AndroidManifest.xml:25:9-232
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.6] C:\Users\LIUWEI\.android\build-cache\60c7114f2e7294eb1b3f5b848a7bda2df00081b6\output\AndroidManifest.xml:25:72-181
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.6] C:\Users\LIUWEI\.android\build-cache\60c7114f2e7294eb1b3f5b848a7bda2df00081b6\output\AndroidManifest.xml:25:182-230
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.6] C:\Users\LIUWEI\.android\build-cache\60c7114f2e7294eb1b3f5b848a7bda2df00081b6\output\AndroidManifest.xml:25:19-71
+activity#com.google.android.gms.ads.purchase.InAppPurchaseActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:10.2.6] C:\Users\LIUWEI\.android\build-cache\60c7114f2e7294eb1b3f5b848a7bda2df00081b6\output\AndroidManifest.xml:26:9-131
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.6] C:\Users\LIUWEI\.android\build-cache\60c7114f2e7294eb1b3f5b848a7bda2df00081b6\output\AndroidManifest.xml:26:92-129
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.6] C:\Users\LIUWEI\.android\build-cache\60c7114f2e7294eb1b3f5b848a7bda2df00081b6\output\AndroidManifest.xml:26:19-91
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-analytics:10.2.6] C:\Users\LIUWEI\.android\build-cache\c28ff4e60a222f9be7a042b2920e38af248edf4a\output\AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-analytics:10.2.6] C:\Users\LIUWEI\.android\build-cache\743ef5fdbdc21d680c60ba679d25d3a11c68358d\output\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.6] C:\Users\LIUWEI\.android\build-cache\cdd22f94a7b602ed97811b82949935e45f887b44\output\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\LIUWEI\.android\build-cache\372f23a9f18d4ae75355fbca14e826749d094c82\output\AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.6] C:\Users\LIUWEI\.android\build-cache\5c6fb97e67feb9e76719271e6f5eb24e0decd79a\output\AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics:10.2.6] C:\Users\LIUWEI\.android\build-cache\c28ff4e60a222f9be7a042b2920e38af248edf4a\output\AndroidManifest.xml:24:22-65
+activity#com.google.android.gms.appinvite.PreviewActivity
+ADDED from [com.google.android.gms:play-services-appinvite:10.2.6] C:\Users\LIUWEI\.android\build-cache\3b3240bd214d13225d4882392922f04a6aa96b01\output\AndroidManifest.xml:20:9-25:20
+	android:exported
+		ADDED from [com.google.android.gms:play-services-appinvite:10.2.6] C:\Users\LIUWEI\.android\build-cache\3b3240bd214d13225d4882392922f04a6aa96b01\output\AndroidManifest.xml:20:51-74
+	android:theme
+		ADDED from [com.google.android.gms:play-services-appinvite:10.2.6] C:\Users\LIUWEI\.android\build-cache\3b3240bd214d13225d4882392922f04a6aa96b01\output\AndroidManifest.xml:20:75-121
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:10.2.6] C:\Users\LIUWEI\.android\build-cache\3b3240bd214d13225d4882392922f04a6aa96b01\output\AndroidManifest.xml:20:19-50
+intent-filter#android.intent.category.DEFAULT+com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:10.2.6] C:\Users\LIUWEI\.android\build-cache\3b3240bd214d13225d4882392922f04a6aa96b01\output\AndroidManifest.xml:21:13-24:29
+action#com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:10.2.6] C:\Users\LIUWEI\.android\build-cache\3b3240bd214d13225d4882392922f04a6aa96b01\output\AndroidManifest.xml:22:17-89
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:10.2.6] C:\Users\LIUWEI\.android\build-cache\3b3240bd214d13225d4882392922f04a6aa96b01\output\AndroidManifest.xml:22:25-87
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:10.2.6] C:\Users\LIUWEI\.android\build-cache\90fe7dab7c0dbef7f7ac6ea4b9ed769e97958347\output\AndroidManifest.xml:20:9-189
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:10.2.6] C:\Users\LIUWEI\.android\build-cache\90fe7dab7c0dbef7f7ac6ea4b9ed769e97958347\output\AndroidManifest.xml:20:129-162
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:10.2.6] C:\Users\LIUWEI\.android\build-cache\90fe7dab7c0dbef7f7ac6ea4b9ed769e97958347\output\AndroidManifest.xml:20:163-187
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:10.2.6] C:\Users\LIUWEI\.android\build-cache\90fe7dab7c0dbef7f7ac6ea4b9ed769e97958347\output\AndroidManifest.xml:20:69-128
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:10.2.6] C:\Users\LIUWEI\.android\build-cache\90fe7dab7c0dbef7f7ac6ea4b9ed769e97958347\output\AndroidManifest.xml:20:19-68
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:10.2.6] C:\Users\LIUWEI\.android\build-cache\90fe7dab7c0dbef7f7ac6ea4b9ed769e97958347\output\AndroidManifest.xml:24:9-184
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:10.2.6] C:\Users\LIUWEI\.android\build-cache\90fe7dab7c0dbef7f7ac6ea4b9ed769e97958347\output\AndroidManifest.xml:24:64-87
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:10.2.6] C:\Users\LIUWEI\.android\build-cache\90fe7dab7c0dbef7f7ac6ea4b9ed769e97958347\output\AndroidManifest.xml:24:88-182
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:10.2.6] C:\Users\LIUWEI\.android\build-cache\90fe7dab7c0dbef7f7ac6ea4b9ed769e97958347\output\AndroidManifest.xml:24:18-63
+receiver#com.google.android.gms.cast.framework.media.MediaIntentReceiver
+ADDED from [com.google.android.gms:play-services-cast-framework:10.2.6] C:\Users\LIUWEI\.android\build-cache\e5477cc9a3e9a418e04aa4a18e770fb135b73a36\output\AndroidManifest.xml:5:9-99
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:10.2.6] C:\Users\LIUWEI\.android\build-cache\e5477cc9a3e9a418e04aa4a18e770fb135b73a36\output\AndroidManifest.xml:5:19-97
+service#com.google.android.gms.cast.framework.media.MediaNotificationService
+ADDED from [com.google.android.gms:play-services-cast-framework:10.2.6] C:\Users\LIUWEI\.android\build-cache\e5477cc9a3e9a418e04aa4a18e770fb135b73a36\output\AndroidManifest.xml:6:9-103
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:10.2.6] C:\Users\LIUWEI\.android\build-cache\e5477cc9a3e9a418e04aa4a18e770fb135b73a36\output\AndroidManifest.xml:6:18-101
+service#com.google.android.gms.cast.framework.ReconnectionService
+ADDED from [com.google.android.gms:play-services-cast-framework:10.2.6] C:\Users\LIUWEI\.android\build-cache\e5477cc9a3e9a418e04aa4a18e770fb135b73a36\output\AndroidManifest.xml:7:9-92
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:10.2.6] C:\Users\LIUWEI\.android\build-cache\e5477cc9a3e9a418e04aa4a18e770fb135b73a36\output\AndroidManifest.xml:7:18-90
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:10.2.6] C:\Users\LIUWEI\.android\build-cache\7a45b4d6fa5dffde7f40c185d3cf475a21c9cee3\output\AndroidManifest.xml:23:9-27:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:10.2.6] C:\Users\LIUWEI\.android\build-cache\7a45b4d6fa5dffde7f40c185d3cf475a21c9cee3\output\AndroidManifest.xml:23:88-111
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:10.2.6] C:\Users\LIUWEI\.android\build-cache\7a45b4d6fa5dffde7f40c185d3cf475a21c9cee3\output\AndroidManifest.xml:23:18-87
+intent-filter#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:10.2.6] C:\Users\LIUWEI\.android\build-cache\7a45b4d6fa5dffde7f40c185d3cf475a21c9cee3\output\AndroidManifest.xml:24:13-26:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-messaging:10.2.6] C:\Users\LIUWEI\.android\build-cache\7a45b4d6fa5dffde7f40c185d3cf475a21c9cee3\output\AndroidManifest.xml:24:28-51
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:10.2.6] C:\Users\LIUWEI\.android\build-cache\7a45b4d6fa5dffde7f40c185d3cf475a21c9cee3\output\AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:10.2.6] C:\Users\LIUWEI\.android\build-cache\7a45b4d6fa5dffde7f40c185d3cf475a21c9cee3\output\AndroidManifest.xml:25:25-75
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.android.gms:play-services-gcm:10.2.6] C:\Users\LIUWEI\.android\build-cache\0962c7723070f4bca339839d05ecb9f7a64a2a82\output\AndroidManifest.xml:20:5-81
+MERGED from [com.google.android.gms:play-services-iid:10.2.6] C:\Users\LIUWEI\.android\build-cache\0d1339d0a2dddeb2b6eb5f8e7bcc451884bd5a01\output\AndroidManifest.xml:20:5-81
+MERGED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\LIUWEI\.android\build-cache\372f23a9f18d4ae75355fbca14e826749d094c82\output\AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from [com.google.android.gms:play-services-gcm:10.2.6] C:\Users\LIUWEI\.android\build-cache\0962c7723070f4bca339839d05ecb9f7a64a2a82\output\AndroidManifest.xml:20:22-79
+service#com.google.android.gms.tagmanager.TagManagerService
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.6] C:\Users\LIUWEI\.android\build-cache\3fc390163221e84d8c4ab15a3513429ad648bc25\output\AndroidManifest.xml:24:9-134
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.6] C:\Users\LIUWEI\.android\build-cache\3fc390163221e84d8c4ab15a3513429ad648bc25\output\AndroidManifest.xml:24:110-132
+	android:exported
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.6] C:\Users\LIUWEI\.android\build-cache\3fc390163221e84d8c4ab15a3513429ad648bc25\output\AndroidManifest.xml:24:85-109
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.6] C:\Users\LIUWEI\.android\build-cache\3fc390163221e84d8c4ab15a3513429ad648bc25\output\AndroidManifest.xml:24:18-84
+activity#com.google.android.gms.tagmanager.TagManagerPreviewActivity
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.6] C:\Users\LIUWEI\.android\build-cache\3fc390163221e84d8c4ab15a3513429ad648bc25\output\AndroidManifest.xml:25:9-32:20
+	android:noHistory
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.6] C:\Users\LIUWEI\.android\build-cache\3fc390163221e84d8c4ab15a3513429ad648bc25\output\AndroidManifest.xml:25:94-118
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.6] C:\Users\LIUWEI\.android\build-cache\3fc390163221e84d8c4ab15a3513429ad648bc25\output\AndroidManifest.xml:25:19-93
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:10.2.6] C:\Users\LIUWEI\.android\build-cache\743ef5fdbdc21d680c60ba679d25d3a11c68358d\output\AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.6] C:\Users\LIUWEI\.android\build-cache\cdd22f94a7b602ed97811b82949935e45f887b44\output\AndroidManifest.xml:25:7-26:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.2.6] C:\Users\LIUWEI\.android\build-cache\743ef5fdbdc21d680c60ba679d25d3a11c68358d\output\AndroidManifest.xml:25:90-112
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:10.2.6] C:\Users\LIUWEI\.android\build-cache\743ef5fdbdc21d680c60ba679d25d3a11c68358d\output\AndroidManifest.xml:25:113-137
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.2.6] C:\Users\LIUWEI\.android\build-cache\743ef5fdbdc21d680c60ba679d25d3a11c68358d\output\AndroidManifest.xml:25:17-89
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:10.2.6] C:\Users\LIUWEI\.android\build-cache\743ef5fdbdc21d680c60ba679d25d3a11c68358d\output\AndroidManifest.xml:27:7-31:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.2.6] C:\Users\LIUWEI\.android\build-cache\743ef5fdbdc21d680c60ba679d25d3a11c68358d\output\AndroidManifest.xml:27:162-184
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:10.2.6] C:\Users\LIUWEI\.android\build-cache\743ef5fdbdc21d680c60ba679d25d3a11c68358d\output\AndroidManifest.xml:27:105-161
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.2.6] C:\Users\LIUWEI\.android\build-cache\743ef5fdbdc21d680c60ba679d25d3a11c68358d\output\AndroidManifest.xml:27:17-104
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:10.2.6] C:\Users\LIUWEI\.android\build-cache\743ef5fdbdc21d680c60ba679d25d3a11c68358d\output\AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.6] C:\Users\LIUWEI\.android\build-cache\cdd22f94a7b602ed97811b82949935e45f887b44\output\AndroidManifest.xml:27:7-137
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.2.6] C:\Users\LIUWEI\.android\build-cache\743ef5fdbdc21d680c60ba679d25d3a11c68358d\output\AndroidManifest.xml:32:88-110
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:10.2.6] C:\Users\LIUWEI\.android\build-cache\743ef5fdbdc21d680c60ba679d25d3a11c68358d\output\AndroidManifest.xml:32:111-135
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.2.6] C:\Users\LIUWEI\.android\build-cache\743ef5fdbdc21d680c60ba679d25d3a11c68358d\output\AndroidManifest.xml:32:16-87
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\LIUWEI\.android\build-cache\372f23a9f18d4ae75355fbca14e826749d094c82\output\AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\LIUWEI\.android\build-cache\372f23a9f18d4ae75355fbca14e826749d094c82\output\AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\LIUWEI\.android\build-cache\372f23a9f18d4ae75355fbca14e826749d094c82\output\AndroidManifest.xml:24:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\LIUWEI\.android\build-cache\372f23a9f18d4ae75355fbca14e826749d094c82\output\AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\LIUWEI\.android\build-cache\372f23a9f18d4ae75355fbca14e826749d094c82\output\AndroidManifest.xml:26:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\LIUWEI\.android\build-cache\372f23a9f18d4ae75355fbca14e826749d094c82\output\AndroidManifest.xml:30:9-35:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\LIUWEI\.android\build-cache\372f23a9f18d4ae75355fbca14e826749d094c82\output\AndroidManifest.xml:30:85-108
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\LIUWEI\.android\build-cache\372f23a9f18d4ae75355fbca14e826749d094c82\output\AndroidManifest.xml:30:109-169
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\LIUWEI\.android\build-cache\372f23a9f18d4ae75355fbca14e826749d094c82\output\AndroidManifest.xml:30:19-84
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\LIUWEI\.android\build-cache\372f23a9f18d4ae75355fbca14e826749d094c82\output\AndroidManifest.xml:31:13-34:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\LIUWEI\.android\build-cache\372f23a9f18d4ae75355fbca14e826749d094c82\output\AndroidManifest.xml:32:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\LIUWEI\.android\build-cache\372f23a9f18d4ae75355fbca14e826749d094c82\output\AndroidManifest.xml:32:25-78
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\LIUWEI\.android\build-cache\372f23a9f18d4ae75355fbca14e826749d094c82\output\AndroidManifest.xml:33:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\LIUWEI\.android\build-cache\372f23a9f18d4ae75355fbca14e826749d094c82\output\AndroidManifest.xml:33:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\LIUWEI\.android\build-cache\372f23a9f18d4ae75355fbca14e826749d094c82\output\AndroidManifest.xml:39:9-119
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\LIUWEI\.android\build-cache\372f23a9f18d4ae75355fbca14e826749d094c82\output\AndroidManifest.xml:39:93-117
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\LIUWEI\.android\build-cache\372f23a9f18d4ae75355fbca14e826749d094c82\output\AndroidManifest.xml:39:19-92
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\LIUWEI\.android\build-cache\372f23a9f18d4ae75355fbca14e826749d094c82\output\AndroidManifest.xml:43:9-47:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\LIUWEI\.android\build-cache\372f23a9f18d4ae75355fbca14e826749d094c82\output\AndroidManifest.xml:43:83-106
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\LIUWEI\.android\build-cache\372f23a9f18d4ae75355fbca14e826749d094c82\output\AndroidManifest.xml:43:18-82
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\LIUWEI\.android\build-cache\372f23a9f18d4ae75355fbca14e826749d094c82\output\AndroidManifest.xml:44:13-46:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\LIUWEI\.android\build-cache\372f23a9f18d4ae75355fbca14e826749d094c82\output\AndroidManifest.xml:44:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\LIUWEI\.android\build-cache\372f23a9f18d4ae75355fbca14e826749d094c82\output\AndroidManifest.xml:45:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\LIUWEI\.android\build-cache\372f23a9f18d4ae75355fbca14e826749d094c82\output\AndroidManifest.xml:45:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:10.2.6] C:\Users\LIUWEI\.android\build-cache\7e4406fde6325141a6be5330c8ed6c3cd09bd358\output\AndroidManifest.xml:6:9-194
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:10.2.6] C:\Users\LIUWEI\.android\build-cache\7e4406fde6325141a6be5330c8ed6c3cd09bd358\output\AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:10.2.6] C:\Users\LIUWEI\.android\build-cache\7e4406fde6325141a6be5330c8ed6c3cd09bd358\output\AndroidManifest.xml:6:144-168
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:10.2.6] C:\Users\LIUWEI\.android\build-cache\7e4406fde6325141a6be5330c8ed6c3cd09bd358\output\AndroidManifest.xml:6:169-192
+	android:name
+		ADDED from [com.google.firebase:firebase-common:10.2.6] C:\Users\LIUWEI\.android\build-cache\7e4406fde6325141a6be5330c8ed6c3cd09bd358\output\AndroidManifest.xml:6:79-143
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:10.2.6] C:\Users\LIUWEI\.android\build-cache\edbd3c1ae92d5c8f7c1e11bcf800e118b6cd10b6\output\AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:10.2.6] C:\Users\LIUWEI\.android\build-cache\edbd3c1ae92d5c8f7c1e11bcf800e118b6cd10b6\output\AndroidManifest.xml:21:19-51
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:10.2.6] C:\Users\LIUWEI\.android\build-cache\edbd3c1ae92d5c8f7c1e11bcf800e118b6cd10b6\output\AndroidManifest.xml:21:52-75
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:10.2.6] C:\Users\LIUWEI\.android\build-cache\dddcede6e66ff96e43e7d948a5c7721eeae8695c\output\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:10.2.6] C:\Users\LIUWEI\.android\build-cache\dddcede6e66ff96e43e7d948a5c7721eeae8695c\output\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:10.2.6] C:\Users\LIUWEI\.android\build-cache\dddcede6e66ff96e43e7d948a5c7721eeae8695c\output\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:10.2.6] C:\Users\LIUWEI\.android\build-cache\dddcede6e66ff96e43e7d948a5c7721eeae8695c\output\AndroidManifest.xml:19:19-85

@@ -1,0 +1,115 @@
+{
+"1_0":
+        {
+            "order":true,
+            "mHeadheight":102,
+            "framecount":4,
+            "data": 
+                [ 
+                {"x":70,"y":57,"r":0,"eye_action":0,"mouth_action":0,"blow_action":1,"head":1},
+                {"x":70,"y":54,"r":0,"eye_action":0,"mouth_action":0,"blow_action":1,"head":1},
+                {"x":70,"y":52,"r":0,"eye_action":0,"mouth_action":0,"blow_action":1,"head":1},
+                {"x":70,"y":55,"r":0,"eye_action":0,"mouth_action":0,"blow_action":1,"head":1}
+	]
+         },
+"1_1":
+        {
+            "order":true,
+            "mHeadheight":80,
+            "framecount":5,
+            "data": 
+                [ 
+                {"x":92,"y":116,"r":0,"eye_action":0,"mouth_action":0,"blow_action":1,"head":1},
+                {"x":92,"y":103,"r":0,"eye_action":0,"mouth_action":0,"blow_action":1,"head":1},
+                {"x":93,"y":41,"r":0,"eye_action":0,"mouth_action":0,"blow_action":1,"head":1},
+                {"x":92,"y":103,"r":0,"eye_action":0,"mouth_action":0,"blow_action":1,"head":1},
+                {"x":92,"y":116,"r":0,"eye_action":0,"mouth_action":0,"blow_action":1,"head":1}
+	  ]
+         },
+"1_2":
+        {
+            "order":true,
+            "mHeadheight":98,
+            "framecount":2,
+            "data": 
+                [ 
+                {"x":100,"y":84,"r":0,"eye_action":0,"mouth_action":0,"blow_action":1,"head":1},
+                {"x":98,"y":89,"r":0,"eye_action":0,"mouth_action":0,"blow_action":1,"head":1}
+	  ]
+        },
+"1_3":
+        {
+            "order":true,
+            "mHeadheight":82,
+            "framecount":6,
+            "data": 
+                [ 
+                {"x":68,"y":130,"r":-30,"eye_action":0,"mouth_action":0,"blow_action":1,"head":1},
+                {"x":140,"y":48,"r":-30,"eye_action":0,"mouth_action":0,"blow_action":1,"head":1},
+                {"x":140,"y":51,"r":-18,"eye_action":0,"mouth_action":0,"blow_action":1,"head":1},
+                {"x":120,"y":58,"r":-25,"eye_action":0,"mouth_action":0,"blow_action":1,"head":1},
+                {"x":102,"y":68,"r":-40,"eye_action":0,"mouth_action":0,"blow_action":1,"head":1},
+                {"x":33,"y":170,"r":-118,"eye_action":0,"mouth_action":0,"blow_action":1,"head":1}
+	 ]
+         },
+
+"1_4":
+        {
+            "order":true,
+            "mHeadheight":172,
+            "framecount":2,
+            "data": 
+                [ 
+                {"x":101,"y":60,"r":0,"eye_action":0,"mouth_action":0,"blow_action":1,"head":1},
+                {"x":101,"y":57,"r":0,"eye_action":0,"mouth_action":0,"blow_action":1,"head":1}
+                ]
+         },
+
+"1_5":
+        {
+            "order":true,
+            "mHeadheight":100,
+            "framecount":2,
+            "data": 
+                [ 
+                {"x":63,"y":90,"r":0,"eye_action":0,"mouth_action":0,"blow_action":1,"head":1},
+                {"x":71,"y":67,"r":0,"eye_action":0,"mouth_action":0,"blow_action":1,"head":1}
+	 ]
+         },
+
+"1_6":
+        {
+            "order":true,
+            "mHeadheight":100,
+            "framecount":10,
+            "data": 
+                [ 
+                {"x":99,"y":90,"r":0,"eye_action":0,"mouth_action":0,"blow_action":1,"head":1},
+                {"x":99,"y":90,"r":0,"eye_action":0,"mouth_action":0,"blow_action":1,"head":1},
+                {"x":99,"y":85,"r":0,"eye_action":0,"mouth_action":0,"blow_action":1,"head":1},
+                {"x":99,"y":34,"r":0,"eye_action":0,"mouth_action":0,"blow_action":1,"head":1},
+                {"x":120,"y":62,"r":20.5,"eye_action":0,"mouth_action":0,"blow_action":1,"head":1},
+                {"x":120,"y":79,"r":30,"eye_action":0,"mouth_action":0,"blow_action":1,"head":1},
+                {"x":120,"y":62,"r":20.5,"eye_action":0,"mouth_action":0,"blow_action":1,"head":1},
+                {"x":120,"y":79,"r":30,"eye_action":0,"mouth_action":0,"blow_action":1,"head":1},
+                {"x":120,"y":62,"r":20.5,"eye_action":0,"mouth_action":0,"blow_action":1,"head":1},
+                {"x":120,"y":79,"r":30,"eye_action":0,"mouth_action":0,"blow_action":1,"head":1}
+	]
+	},
+
+"1_7":
+        {
+            "order":true,
+            "mHeadheight":128,
+            "framecount":6,
+            "data": 
+                [ 
+                {"x":0,"y":0,"r":0,"eye_action":0,"mouth_action":0,"blow_action":1,"head":-1},
+                {"x":0,"y":0,"r":0,"eye_action":0,"mouth_action":0,"blow_action":1,"head":-1},
+                {"x":100,"y":119,"r":0,"eye_action":0,"mouth_action":0,"blow_action":1,"head":1},
+                {"x":110,"y":118,"r":15,"eye_action":0,"mouth_action":0,"blow_action":1,"head":1},
+                {"x":110,"y":118,"r":15,"eye_action":0,"mouth_action":0,"blow_action":1,"head":1},
+                {"x":110,"y":118,"r":15,"eye_action":0,"mouth_action":0,"blow_action":1,"head":1}
+               ]
+    }
+}

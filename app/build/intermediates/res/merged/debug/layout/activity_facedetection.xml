@@ -1,0 +1,78 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".FaceDetectionActivity" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical" >
+        
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:background="#333333"
+            android:orientation="vertical" >
+
+		    <Button
+		        android:id="@+id/btn_backto_main"
+		        android:layout_width="wrap_content"
+		        android:layout_height="match_parent"
+		        android:layout_alignParentLeft="true"
+		        android:layout_centerVertical="true"
+		        android:layout_marginLeft="23dp"
+		        android:background="@xml/button_back"
+		        android:minHeight="12dp"
+		        android:minWidth="40dip"
+		        android:text="戻る"
+		        android:textColor="#ffffff"
+		        android:textSize="15sp" />
+
+		    <TextView
+		        android:id="@+id/textView1"
+		        android:layout_width="wrap_content"
+		        android:layout_height="match_parent"
+		        android:layout_alignTop="@+id/btn_backto_main"
+		        android:layout_centerHorizontal="true"
+		        android:gravity="center"
+		        android:text="顔選択"
+		        android:textAppearance="?android:attr/textAppearanceMedium"
+		        android:textColor="#FFFFFF" />
+
+	    </RelativeLayout>
+	    
+          <LinearLayout
+        android:id="@+id/faceDetectionView"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:background="#FFFFFF"
+        android:orientation="vertical" >
+    	</LinearLayout>
+    	
+         <ImageView
+        android:id="@+id/imageView3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:adjustViewBounds="true"
+        android:scaleType="fitXY"
+        android:src="@drawable/facedetection_back2" />
+         
+          <LinearLayout
+              android:id="@+id/LinearLayoutInterstitialBottom"
+              android:layout_width="match_parent"
+              android:layout_height="57dp"
+              android:background="#FF8877"
+              android:orientation="horizontal" >
+
+         </LinearLayout>
+	    
+     </LinearLayout>
+
+  
+
+ 
+
+</LinearLayout>

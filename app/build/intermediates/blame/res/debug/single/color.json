@@ -1,0 +1,102 @@
+[
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\color\\wallet_primary_text_holo_light.xml",
+        "source": "C:\\Users\\LIUWEI\\.android\\build-cache\\5f24602e72bb008dc9fac2ac16657906f6339934\\output\\res\\color\\wallet_primary_text_holo_light.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\color\\wallet_secondary_text_holo_dark.xml",
+        "source": "C:\\Users\\LIUWEI\\.android\\build-cache\\5f24602e72bb008dc9fac2ac16657906f6339934\\output\\res\\color\\wallet_secondary_text_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\LIUWEI\\.android\\build-cache\\dddcede6e66ff96e43e7d948a5c7721eeae8695c\\output\\res\\color\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
+        "source": "C:\\Users\\LIUWEI\\.android\\build-cache\\ae9ee05ee0d3d5a484598b2f5fd2cbeb528ae167\\output\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_seek_thumb.xml",
+        "source": "C:\\Users\\LIUWEI\\.android\\build-cache\\ae9ee05ee0d3d5a484598b2f5fd2cbeb528ae167\\output\\res\\color\\abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_default.xml",
+        "source": "C:\\Users\\LIUWEI\\.android\\build-cache\\ae9ee05ee0d3d5a484598b2f5fd2cbeb528ae167\\output\\res\\color\\abc_tint_default.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
+        "source": "C:\\Users\\LIUWEI\\.android\\build-cache\\ae9ee05ee0d3d5a484598b2f5fd2cbeb528ae167\\output\\res\\color\\switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_light.xml",
+        "source": "C:\\Users\\LIUWEI\\.android\\build-cache\\ae9ee05ee0d3d5a484598b2f5fd2cbeb528ae167\\output\\res\\color\\abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_spinner.xml",
+        "source": "C:\\Users\\LIUWEI\\.android\\build-cache\\ae9ee05ee0d3d5a484598b2f5fd2cbeb528ae167\\output\\res\\color\\abc_tint_spinner.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "C:\\Users\\LIUWEI\\.android\\build-cache\\ae9ee05ee0d3d5a484598b2f5fd2cbeb528ae167\\output\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_track.xml",
+        "source": "C:\\Users\\LIUWEI\\.android\\build-cache\\ae9ee05ee0d3d5a484598b2f5fd2cbeb528ae167\\output\\res\\color\\abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_text_material.xml",
+        "source": "C:\\Users\\LIUWEI\\.android\\build-cache\\ae9ee05ee0d3d5a484598b2f5fd2cbeb528ae167\\output\\res\\color\\abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
+        "source": "C:\\Users\\LIUWEI\\.android\\build-cache\\ae9ee05ee0d3d5a484598b2f5fd2cbeb528ae167\\output\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
+        "source": "C:\\Users\\LIUWEI\\.android\\build-cache\\ae9ee05ee0d3d5a484598b2f5fd2cbeb528ae167\\output\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_thumb.xml",
+        "source": "C:\\Users\\LIUWEI\\.android\\build-cache\\ae9ee05ee0d3d5a484598b2f5fd2cbeb528ae167\\output\\res\\color\\abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_dark.xml",
+        "source": "C:\\Users\\LIUWEI\\.android\\build-cache\\ae9ee05ee0d3d5a484598b2f5fd2cbeb528ae167\\output\\res\\color\\abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "C:\\Users\\LIUWEI\\.android\\build-cache\\ae9ee05ee0d3d5a484598b2f5fd2cbeb528ae167\\output\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_btn_checkable.xml",
+        "source": "C:\\Users\\LIUWEI\\.android\\build-cache\\ae9ee05ee0d3d5a484598b2f5fd2cbeb528ae167\\output\\res\\color\\abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_borderless_text_material.xml",
+        "source": "C:\\Users\\LIUWEI\\.android\\build-cache\\ae9ee05ee0d3d5a484598b2f5fd2cbeb528ae167\\output\\res\\color\\abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\LIUWEI\\.android\\build-cache\\dddcede6e66ff96e43e7d948a5c7721eeae8695c\\output\\res\\color\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "C:\\Users\\LIUWEI\\.android\\build-cache\\ae9ee05ee0d3d5a484598b2f5fd2cbeb528ae167\\output\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_edittext.xml",
+        "source": "C:\\Users\\LIUWEI\\.android\\build-cache\\ae9ee05ee0d3d5a484598b2f5fd2cbeb528ae167\\output\\res\\color\\abc_tint_edittext.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_tint.xml",
+        "source": "C:\\Users\\LIUWEI\\.android\\build-cache\\dddcede6e66ff96e43e7d948a5c7721eeae8695c\\output\\res\\color\\common_google_signin_btn_tint.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
+        "source": "C:\\Users\\LIUWEI\\.android\\build-cache\\ae9ee05ee0d3d5a484598b2f5fd2cbeb528ae167\\output\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
+        "source": "C:\\Users\\LIUWEI\\.android\\build-cache\\ae9ee05ee0d3d5a484598b2f5fd2cbeb528ae167\\output\\res\\color\\switch_thumb_material_dark.xml"
+    }
+]

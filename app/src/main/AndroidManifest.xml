@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="jp.co.vantageapps.famous.app"
+    android:versionCode="18"
+    android:versionName="18.0" >
+
+    <uses-permission android:name="android.permission.CAMERA" />
+
+    <uses-feature android:name="android.hardware.camera" />
+    <uses-feature android:name="android.hardware.camera.autofocus" />
+
+    <uses-permission android:name="android.permission.DISABLE_KEYGUARD" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+
+    <uses-sdk
+        android:minSdkVersion="15"
+        android:targetSdkVersion="23" />
+
+    <application
+        android:name="jp.co.vantageapps.famous.app.GlobalClass"
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@android:style/Theme.NoTitleBar"
+        android:hardwareAccelerated="true"
+        android:largeHeap="true" >
+        
+        
+        <activity
+  			android:name="com.tapjoy.TJCOffersWebView"
+  			android:configChanges="orientation|keyboardHidden|screenSize" />
+		<activity
+ 			android:name="com.tapjoy.TapjoyVideoView"
+  			android:configChanges="orientation|keyboardHidden|screenSize" />
+		<activity
+  			android:name="com.tapjoy.TJAdUnitView"
+  			android:configChanges="orientation|keyboardHidden|screenSize"
+  			android:theme="@android:style/Theme.Translucent.NoTitleBar.Fullscreen"
+  			android:hardwareAccelerated="true" />
+		<activity
+  			android:name="com.tapjoy.mraid.view.ActionHandler"
+  			android:configChanges="orientation|keyboardHidden|screenSize" />
+		<activity
+  			android:name="com.tapjoy.mraid.view.Browser"
+  			android:configChanges="orientation|keyboardHidden|screenSize" />
+        
+        
+        <activity
+            android:name="jp.co.vantageapps.famous.app.FamousPeopleActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" >            
+        </activity>
+        
+        <activity
+            android:name="jp.co.vantageapps.famous.app.SplashActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+            
+            <intent-filter>
+        		<action android:name="android.intent.action.VIEW" />
+                <category android:name="android.intent.category.BROWSABLE"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <data android:scheme="jp.co.vantageapps.famous.app"/>
+            </intent-filter>
+        </activity>
+        
+        <activity
+            android:name="jp.co.vantageapps.famous.app.Gif_SelPic"
+            android:label="@string/title_activity_gif__sel_pic"
+            android:screenOrientation="portrait" >
+            <intent-filter>
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        
+        <activity
+            android:name="jp.co.vantageapps.famous.app.GifSelMediaActivity"
+            android:label="@string/title_activity_gif_sel_media"
+            android:screenOrientation="portrait" >
+        </activity>
+        
+        <activity
+            android:name="jp.co.vantageapps.famous.app.GifFaceDetectActivity"
+            android:label="@string/title_activity_gif_face_detect"
+            android:screenOrientation="portrait" >
+        </activity>
+        
+        <activity
+            android:name="jp.co.vantageapps.famous.app.GifFaceMaskActivity"
+            android:label="@string/title_activity_gif_face_mask"
+            android:screenOrientation="portrait" >
+        </activity>
+        
+        <activity
+            android:name="jp.co.vantageapps.famous.app.GifMakeActivity"
+            android:label="@string/title_activity_gif_make"
+            android:screenOrientation="portrait" >
+        </activity>
+        
+        <activity
+            android:name="jp.co.vantageapps.famous.app.GifFactoryActivity"
+            android:label="@string/title_activity_gif_factory"
+            android:screenOrientation="portrait" >
+        </activity>
+        
+        <activity
+            android:name="jp.co.vantageapps.famous.app.FSGenderSelectionActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" >
+        </activity>
+        
+        <activity
+            android:name="jp.co.vantageapps.famous.app.FSCategorySelectionActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" >
+        </activity>
+        
+        <activity
+            android:name="jp.co.vantageapps.famous.app.ImageSelectionActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" >
+        </activity>
+        
+        <activity
+            android:name="jp.co.vantageapps.famous.app.CameraActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" >
+        </activity>
+        
+        <activity
+            android:name="jp.co.vantageapps.famous.app.ImageCheckActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" >
+        </activity>
+        
+        <activity
+            android:name="jp.co.vantageapps.famous.app.FaceDetectionActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" >
+        </activity>
+        
+        <activity
+            android:name="jp.co.vantageapps.famous.app.FSServerConnectionActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" >
+        </activity>
+        
+        <activity
+            android:name="jp.co.vantageapps.famous.app.FSRecognitionResultActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" >
+        </activity>
+        
+        <activity
+            android:name="jp.co.vantageapps.famous.app.FSRankingRegisterActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" >
+        </activity>
+        
+        <activity
+            android:name="jp.co.vantageapps.famous.app.FSRankingShowActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" >
+        </activity>
+
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+
+        <activity
+            android:name="jp.co.vantageapps.famous.app.FSAnalyseResultActivity"
+            android:label="@string/title_activity_fsanalyse_result" 
+            android:screenOrientation="portrait">
+        </activity>
+        
+        <service 
+            android:enabled="true" 
+            android:name="jp.co.vantageapps.famous.app.AudioPlayService"/>
+        
+        <!--	20151216 dong ADTRACK start	-->
+        <receiver android:name="jp.co.adtrack.android.InstallReceiver" android:exported="true">
+			<intent-filter>
+			<action android:name="com.android.vending.INSTALL_REFERRER" />
+			</intent-filter>
+		</receiver>
+		
+        <meta-data android:name="ADTRACK_APP_ID" android:value="36" />
+		<meta-data
+		    android:name="ADTRACK_SERVER_URL"
+		    android:value="016f2e13df2b4a9ffff60e579bf334964cbe85fa8c389a79142eff24b7bb89372f" />
+		<!--	20151216 dong ADTRACK end	-->
+		
+    </application>
+
+</manifest>

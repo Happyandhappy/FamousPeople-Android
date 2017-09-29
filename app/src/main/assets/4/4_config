@@ -1,0 +1,117 @@
+{
+"4_0": 
+    {
+        "order":true,
+        "mHeadheight":111,
+        "framecount":8,
+        "data": 
+            [ 
+            {"x":96,"y":72,"r":0,"eye_action":0,"mouth_action":0,"blow_action":3,"head":0}, 
+			{"x":96,"y":72,"r":0,"eye_action":0,"mouth_action":0,"blow_action":3,"head":0}, 
+			{"x":96,"y":72,"r":0,"eye_action":0,"mouth_action":0,"blow_action":3,"head":0}, 
+			{"x":96,"y":72,"r":0,"eye_action":0,"mouth_action":0,"blow_action":3,"head":0}, 
+			{"x":96,"y":72,"r":0,"eye_action":0,"mouth_action":0,"blow_action":3,"head":0}, 
+			{"x":96,"y":72,"r":0,"eye_action":0,"mouth_action":0,"blow_action":3,"head":0}, 
+			{"x":96,"y":72,"r":0,"eye_action":0,"mouth_action":0,"blow_action":3,"head":0}, 
+			{"x":96,"y":72,"r":0,"eye_action":0,"mouth_action":0,"blow_action":3,"head":0}
+            ]
+    },
+"4_1": 
+    {
+        "order":true,
+		"mHeadheight":92,
+		"framecount":5,
+        "data": 
+            [ 
+            {"x":112,"y":61,"r":0,"eye_action":0,"mouth_action":0,"blow_action":1,"head":0}, 
+			{"x":112,"y":61,"r":0,"eye_action":0,"mouth_action":0,"blow_action":1,"head":0}, 
+			{"x":112,"y":61,"r":0,"eye_action":0,"mouth_action":0,"blow_action":1,"head":0}, 
+			{"x":112,"y":61,"r":0,"eye_action":3,"mouth_action":0,"blow_action":1,"head":0}, 
+			{"x":112,"y":61,"r":0,"eye_action":0,"mouth_action":0,"blow_action":1,"head":0}
+            ]
+    },
+"4_2": 
+    {
+        "order":true,
+		"mHeadheight":119,
+		"framecount":4,
+        "data": 
+            [ 
+            {"x":111,"y":70,"r":10,"eye_action":1,"mouth_action":0,"blow_action":3,"head":0},
+			{"x":111,"y":72,"r":10,"eye_action":1,"mouth_action":0,"blow_action":3,"head":0},
+			{"x":111,"y":75,"r":10,"eye_action":1,"mouth_action":0,"blow_action":3,"head":0},
+			{"x":111,"y":77,"r":10,"eye_action":1,"mouth_action":0,"blow_action":3,"head":0}
+            ]
+    },
+"4_3": 
+    {
+        "order":true,
+		"mHeadheight":110,
+		"framecount":4,
+        "data": 
+            [ 
+            {"x":102,"y":88,"r":0,"eye_action":0,"mouth_action":0,"blow_action":0,"head":0},
+			{"x":102,"y":88,"r":0,"eye_action":0,"mouth_action":4,"blow_action":5,"head":0}, 
+			{"x":102,"y":88,"r":0,"eye_action":0,"mouth_action":0,"blow_action":0,"head":0}, 
+			{"x":102,"y":88,"r":0,"eye_action":0,"mouth_action":0,"blow_action":0,"head":0}			
+            ]
+    },
+ "4_4": 
+    {    
+		"order":true,
+        "mHeadheight":120,
+        "framecount":3,
+        "data": 
+            [ 
+            {"x":126,"y":84,"r":0,"eye_action":1,"mouth_action":2,"blow_action":0,"head":0},
+			{"x":126,"y":84,"r":0,"eye_action":1,"mouth_action":2,"blow_action":0,"head":0},
+			{"x":126,"y":84,"r":0,"eye_action":1,"mouth_action":2,"blow_action":0,"head":0}
+            ]
+        
+    },
+ "4_5": 
+    {
+        "order":true,
+		"mHeadheight":110,
+		"framecount":8,
+        "data": 
+            [ 
+			{"x":108,"y":82,"r":0,"eye_action":0,"mouth_action":0,"blow_action":0,"head":0}, 
+			{"x":108,"y":82,"r":0,"eye_action":4,"mouth_action":0,"blow_action":0,"head":0}, 
+			{"x":108,"y":82,"r":0,"eye_action":0,"mouth_action":0,"blow_action":0,"head":0}, 
+			{"x":108,"y":82,"r":0,"eye_action":0,"mouth_action":0,"blow_action":0,"head":0}, 
+			{"x":108,"y":82,"r":0,"eye_action":0,"mouth_action":0,"blow_action":0,"head":0}, 
+			{"x":108,"y":82,"r":0,"eye_action":0,"mouth_action":0,"blow_action":0,"head":0}, 
+			{"x":108,"y":82,"r":0,"eye_action":0,"mouth_action":0,"blow_action":0,"head":0}, 
+			{"x":108,"y":82,"r":0,"eye_action":0,"mouth_action":0,"blow_action":0,"head":0}
+            ]
+    },
+"4_6": 
+    {   
+		"order":true,
+		"mHeadheight":114,
+		"framecount":4,
+        "data": 
+            [ 
+            {"x":106,"y":82,"r":0,"eye_action":0,"mouth_action":1,"blow_action":0,"head":0},
+			{"x":106,"y":82,"r":0,"eye_action":0,"mouth_action":1,"blow_action":5,"head":0},
+			{"x":106,"y":82,"r":0,"eye_action":0,"mouth_action":1,"blow_action":0,"head":0},
+			{"x":106,"y":82,"r":0,"eye_action":0,"mouth_action":1,"blow_action":0,"head":0}
+            ]
+        
+    },
+"4_7": 
+    {   
+		"order":true,
+		"mHeadheight":120,
+		"framecount":4,
+        "data": 
+            [ 
+            {"x":101,"y":82,"r":0,"eye_action":1,"mouth_action":0,"blow_action":1,"head":0},
+			{"x":101,"y":82,"r":0,"eye_action":1,"mouth_action":0,"blow_action":1,"head":0},
+			{"x":101,"y":82,"r":0,"eye_action":1,"mouth_action":0,"blow_action":1,"head":0},
+			{"x":101,"y":82,"r":0,"eye_action":1,"mouth_action":0,"blow_action":1,"head":0}
+            ]
+        
+    }
+}

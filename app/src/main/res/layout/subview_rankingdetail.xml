@@ -1,0 +1,90 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="270dp"
+    android:layout_height="300dp"
+    android:orientation="vertical" >
+   
+    <RelativeLayout
+	    android:id="@+id/tableview_layout"
+		android:layout_width="270dp"
+		android:layout_height="200dp"
+		android:layout_marginTop="100dp"
+		android:layout_marginLeft="15dp"
+		android:layout_marginRight="15dp"
+		android:orientation="vertical"
+		android:background="@layout/custom_subview_rankingdetail" >
+		
+        <TextView
+	        android:id="@+id/user_name"
+	        android:layout_width="150dp"
+	        android:layout_height="20dp"
+	        android:layout_centerHorizontal="true"
+	        android:layout_marginTop="85dp"
+	        android:text="有名人名字"
+	        android:gravity="center"
+	        android:textColor="#FF000000"
+	        android:textSize="10sp" />
+          <TextView
+	        android:id="@+id/fp_name"
+	        android:layout_width="150dp"
+	        android:layout_height="20dp"
+	        android:layout_centerHorizontal="true"
+	        android:layout_marginTop="60dp"
+	        android:text="有名人名字"
+	        android:gravity="center"
+	        android:textColor="#FF000000"
+	        android:textSize="15sp" />
+        
+        <RelativeLayout
+		    android:id="@+id/syncrate_layout"
+			android:layout_width="150dp"
+			android:layout_height="wrap_content"
+			android:layout_centerHorizontal="true"
+			android:layout_below="@+id/user_name"
+			android:layout_marginTop="20dp"
+			android:orientation="horizontal" >
+		
+	        <TextView
+		        android:id="@+id/syncrate"
+		        android:layout_width="90dp"
+		        android:layout_height="wrap_content"
+		        android:layout_marginLeft="30dp"
+		        android:text="78.9"
+		        android:layout_centerVertical="true"
+		        android:textSize="40sp"
+		        android:textColor="#FF35B595"
+		        android:textStyle="bold" />
+	        
+	        <TextView
+		        android:layout_width="30dp"
+		        android:layout_height="wrap_content"
+		        android:layout_toRightOf="@+id/syncrate"
+		        android:layout_centerVertical="true"
+		        android:text="%"
+		        android:textSize="25sp"
+		        android:textColor="#FF000000" />
+	        
+		</RelativeLayout>
+	        
+   </RelativeLayout>
+   
+    <Button
+        android:id="@+id/btn_closeview"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_marginTop="85dp"
+        android:layout_alignParentRight="true"
+        android:adjustViewBounds="true"
+        android:background="@layout/custom_btn_celldelete" />
+   
+    <ImageView
+        android:id="@+id/userphoto"
+        android:layout_width="130dp"
+        android:layout_height="150dp"
+        android:layout_marginTop="0dp"
+        android:layout_centerHorizontal="true"
+        android:adjustViewBounds="true"
+        android:scaleType="fitXY"
+        android:src="@drawable/ic_launcher" />
+   
+</RelativeLayout>

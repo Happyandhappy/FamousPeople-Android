@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/rankingcell_layout"
+    android:layout_width="match_parent"
+    android:layout_height="60dp"
+    android:background="#FFEEEEEE"
+    android:padding="2dp" >
+
+    <TextView
+        android:id="@+id/number"
+        android:layout_width="70dp"
+        android:layout_height="55dp"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="0dp"
+        android:text="1"
+        android:gravity="center"
+        android:textColor="#FF35B595"
+        android:textSize="40sp"
+        android:textStyle="bold" />
+    
+    <RelativeLayout
+	    android:id="@+id/userphoto_layout"
+		android:layout_width="50dp"
+		android:layout_height="58dp"
+		android:layout_toRightOf="@+id/number"
+		android:layout_marginLeft="0dp"
+		android:background="#FFDDDDDD"
+		android:orientation="vertical" >
+		
+	    <ImageView
+	        android:id="@+id/userphoto"
+	        android:layout_width="match_parent"
+	        android:layout_height="match_parent"
+	        android:adjustViewBounds="true"
+	        android:scaleType="fitXY" />
+	    
+	    <TextView
+	        android:id="@+id/userphoto_loading"
+	        android:layout_width="match_parent"
+	        android:layout_height="match_parent"
+	        android:text="ローディング..."
+	        android:gravity="center"
+	        android:textColor="#FF000000"
+	        android:textSize="10sp"
+	        android:textStyle="bold" />
+	    
+	</RelativeLayout>	    
+    
+    <RelativeLayout
+	    android:id="@+id/rankinginfo_layout"
+		android:layout_width="130dp"
+		android:layout_height="58dp"
+		android:layout_toRightOf="@+id/userphoto_layout"
+		android:layout_marginLeft="10dp"
+		android:background="#FFEEEEEE"
+		android:orientation="vertical" >
+
+        <TextView
+	        android:id="@+id/famouspeople_name"
+	        android:layout_width="120dp"
+	        android:layout_height="16dp"
+	        android:layout_alignParentTop="true"
+	        android:layout_marginTop="2dp"
+	        android:text="有名人名字"
+	        android:gravity="center"
+	        android:textColor="#FF000000"
+	        android:textSize="12sp" />
+        
+        <TextView
+	        android:id="@+id/user_name"
+	        android:layout_width="120dp"
+	        android:layout_height="16dp"
+	        android:layout_below="@+id/famouspeople_name"
+	        android:layout_marginTop="1dp"
+	        android:text="有名人名字"
+	        android:gravity="center"
+	        android:textColor="#FF000000"
+	        android:textSize="12sp" />
+        
+        <RelativeLayout
+		    android:id="@+id/syncrate_layout"
+			android:layout_width="120dp"
+			android:layout_height="wrap_content"
+			android:layout_below="@+id/user_name"
+			android:layout_marginTop="1dp"
+			android:orientation="horizontal" >
+		
+	        <TextView
+		        android:id="@+id/syncrate"
+		        android:layout_width="40dp"
+		        android:layout_height="wrap_content"
+		        android:layout_marginLeft="40dp"
+		        android:text="78.9"
+		        android:layout_centerVertical="true"
+		        android:textSize="18sp"
+		        android:textColor="#FF35B595"
+		        android:textStyle="bold" />
+	        
+	        <TextView
+		        android:layout_width="30dp"
+		        android:layout_height="wrap_content"
+		        android:layout_toRightOf="@+id/syncrate"
+		        android:layout_centerVertical="true"
+		        android:text="%"
+		        android:textSize="14sp"
+		        android:textColor="#FF000000" />
+	        
+		</RelativeLayout>
+        
+	</RelativeLayout>
+	
+    <Button
+        android:id="@+id/btn_del_rankingitem"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="10dp"
+        android:layout_centerVertical="true"
+        android:adjustViewBounds="true"
+        android:background="@layout/custom_btn_celldelete" />
+	
+</RelativeLayout>

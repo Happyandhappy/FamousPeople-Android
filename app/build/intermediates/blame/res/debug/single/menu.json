@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "D:\\AndroidStudio_Work\\FamousPeople\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\menu\\gifselpic.xml",
+        "source": "D:\\AndroidStudio_Work\\FamousPeople\\app\\src\\main\\res\\menu\\gifselpic.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_gif_sel_media.xml",
+        "source": "D:\\AndroidStudio_Work\\FamousPeople\\app\\src\\main\\res\\menu\\activity_gif_sel_media.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\menu\\gifselmedia.xml",
+        "source": "D:\\AndroidStudio_Work\\FamousPeople\\app\\src\\main\\res\\menu\\gifselmedia.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_gif_factory.xml",
+        "source": "D:\\AndroidStudio_Work\\FamousPeople\\app\\src\\main\\res\\menu\\activity_gif_factory.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_gif_make.xml",
+        "source": "D:\\AndroidStudio_Work\\FamousPeople\\app\\src\\main\\res\\menu\\activity_gif_make.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\menu\\fsanalyse_result.xml",
+        "source": "D:\\AndroidStudio_Work\\FamousPeople\\app\\src\\main\\res\\menu\\fsanalyse_result.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_gif_face_detect.xml",
+        "source": "D:\\AndroidStudio_Work\\FamousPeople\\app\\src\\main\\res\\menu\\activity_gif_face_detect.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_gif_face_mask.xml",
+        "source": "D:\\AndroidStudio_Work\\FamousPeople\\app\\src\\main\\res\\menu\\activity_gif_face_mask.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\menu\\fragment_gif_face_detect.xml",
+        "source": "D:\\AndroidStudio_Work\\FamousPeople\\app\\src\\main\\res\\menu\\fragment_gif_face_detect.xml"
+    }
+]

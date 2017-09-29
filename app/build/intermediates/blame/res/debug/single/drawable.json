@@ -1,0 +1,898 @@
+[
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_expanded_controller_seekbar_track.xml",
+        "source": "C:\\Users\\LIUWEI\\.android\\build-cache\\e5477cc9a3e9a418e04aa4a18e770fb135b73a36\\output\\res\\drawable\\cast_expanded_controller_seekbar_track.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\emoji_hair2_press.png",
+        "source": "D:\\AndroidStudio_Work\\FamousPeople\\app\\src\\main\\res\\drawable\\emoji_hair2_press.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ranking_open_0.png",
+        "source": "D:\\AndroidStudio_Work\\FamousPeople\\app\\src\\main\\res\\drawable\\ranking_open_0.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\w_0.png",
+        "source": "D:\\AndroidStudio_Work\\FamousPeople\\app\\src\\main\\res\\drawable\\w_0.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\LIUWEI\\.android\\build-cache\\ae9ee05ee0d3d5a484598b2f5fd2cbeb528ae167\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\LIUWEI\\.android\\build-cache\\ae9ee05ee0d3d5a484598b2f5fd2cbeb528ae167\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\LIUWEI\\.android\\build-cache\\ae9ee05ee0d3d5a484598b2f5fd2cbeb528ae167\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo0000.png",
+        "source": "D:\\AndroidStudio_Work\\FamousPeople\\app\\src\\main\\res\\drawable\\logo0000.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_dialog_close_dark.xml",
+        "source": "C:\\Users\\LIUWEI\\.android\\build-cache\\e14ab2e50c47053148cc4be8be31aafb39298dc1\\output\\res\\drawable\\mr_dialog_close_dark.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\emoji_entry_album.png",
+        "source": "D:\\AndroidStudio_Work\\FamousPeople\\app\\src\\main\\res\\drawable\\emoji_entry_album.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\search_pressed.png",
+        "source": "D:\\AndroidStudio_Work\\FamousPeople\\app\\src\\main\\res\\drawable\\search_pressed.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\LIUWEI\\.android\\build-cache\\ae9ee05ee0d3d5a484598b2f5fd2cbeb528ae167\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gender_string.png",
+        "source": "D:\\AndroidStudio_Work\\FamousPeople\\app\\src\\main\\res\\drawable\\gender_string.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\emoji_share_quit_btn.png",
+        "source": "D:\\AndroidStudio_Work\\FamousPeople\\app\\src\\main\\res\\drawable\\emoji_share_quit_btn.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\result_btn.png",
+        "source": "D:\\AndroidStudio_Work\\FamousPeople\\app\\src\\main\\res\\drawable\\result_btn.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\album_0.png",
+        "source": "D:\\AndroidStudio_Work\\FamousPeople\\app\\src\\main\\res\\drawable\\album_0.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_forward30.xml",
+        "source": "C:\\Users\\LIUWEI\\.android\\build-cache\\e5477cc9a3e9a418e04aa4a18e770fb135b73a36\\output\\res\\drawable\\cast_ic_notification_forward30.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\LIUWEI\\.android\\build-cache\\ae9ee05ee0d3d5a484598b2f5fd2cbeb528ae167\\output\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\result.png",
+        "source": "D:\\AndroidStudio_Work\\FamousPeople\\app\\src\\main\\res\\drawable\\result.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_play.xml",
+        "source": "C:\\Users\\LIUWEI\\.android\\build-cache\\e5477cc9a3e9a418e04aa4a18e770fb135b73a36\\output\\res\\drawable\\cast_ic_expanded_controller_play.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\s_0.png",
+        "source": "D:\\AndroidStudio_Work\\FamousPeople\\app\\src\\main\\res\\drawable\\s_0.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\m_0.png",
+        "source": "D:\\AndroidStudio_Work\\FamousPeople\\app\\src\\main\\res\\drawable\\m_0.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\LIUWEI\\.android\\build-cache\\ae9ee05ee0d3d5a484598b2f5fd2cbeb528ae167\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\start_1.png",
+        "source": "D:\\AndroidStudio_Work\\FamousPeople\\app\\src\\main\\res\\drawable\\start_1.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gif3_backtop.png",
+        "source": "D:\\AndroidStudio_Work\\FamousPeople\\app\\src\\main\\res\\drawable\\gif3_backtop.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\LIUWEI\\.android\\build-cache\\ae9ee05ee0d3d5a484598b2f5fd2cbeb528ae167\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\LIUWEI\\.android\\build-cache\\dddcede6e66ff96e43e7d948a5c7721eeae8695c\\output\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\facedetection_back2.png",
+        "source": "D:\\AndroidStudio_Work\\FamousPeople\\app\\src\\main\\res\\drawable\\facedetection_back2.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\b_1.png",
+        "source": "D:\\AndroidStudio_Work\\FamousPeople\\app\\src\\main\\res\\drawable\\b_1.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\r_signup_1.png",
+        "source": "D:\\AndroidStudio_Work\\FamousPeople\\app\\src\\main\\res\\drawable\\r_signup_1.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_media_pause_dark.xml",
+        "source": "C:\\Users\\LIUWEI\\.android\\build-cache\\e14ab2e50c47053148cc4be8be31aafb39298dc1\\output\\res\\drawable\\mr_media_pause_dark.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_button_connected_dark.xml",
+        "source": "C:\\Users\\LIUWEI\\.android\\build-cache\\e14ab2e50c47053148cc4be8be31aafb39298dc1\\output\\res\\drawable\\mr_button_connected_dark.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\LIUWEI\\.android\\build-cache\\ae9ee05ee0d3d5a484598b2f5fd2cbeb528ae167\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\emoji_back_press.png",
+        "source": "D:\\AndroidStudio_Work\\FamousPeople\\app\\src\\main\\res\\drawable\\emoji_back_press.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_small_icon.xml",
+        "source": "C:\\Users\\LIUWEI\\.android\\build-cache\\e5477cc9a3e9a418e04aa4a18e770fb135b73a36\\output\\res\\drawable\\cast_ic_notification_small_icon.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\v_1.png",
+        "source": "D:\\AndroidStudio_Work\\FamousPeople\\app\\src\\main\\res\\drawable\\v_1.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_line_0.png",
+        "source": "D:\\AndroidStudio_Work\\FamousPeople\\app\\src\\main\\res\\drawable\\btn_line_0.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\camera_1.png",
+        "source": "D:\\AndroidStudio_Work\\FamousPeople\\app\\src\\main\\res\\drawable\\camera_1.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_stop_live_stream.xml",
+        "source": "C:\\Users\\LIUWEI\\.android\\build-cache\\e5477cc9a3e9a418e04aa4a18e770fb135b73a36\\output\\res\\drawable\\cast_ic_notification_stop_live_stream.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_button_dark.xml",
+        "source": "C:\\Users\\LIUWEI\\.android\\build-cache\\e14ab2e50c47053148cc4be8be31aafb39298dc1\\output\\res\\drawable\\mr_button_dark.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\LIUWEI\\.android\\build-cache\\ae9ee05ee0d3d5a484598b2f5fd2cbeb528ae167\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\LIUWEI\\.android\\build-cache\\dddcede6e66ff96e43e7d948a5c7721eeae8695c\\output\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ranking_closs.png",
+        "source": "D:\\AndroidStudio_Work\\FamousPeople\\app\\src\\main\\res\\drawable\\ranking_closs.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_stop.xml",
+        "source": "C:\\Users\\LIUWEI\\.android\\build-cache\\e5477cc9a3e9a418e04aa4a18e770fb135b73a36\\output\\res\\drawable\\cast_ic_mini_controller_stop.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light_normal.xml",
+        "source": "C:\\Users\\LIUWEI\\.android\\build-cache\\dddcede6e66ff96e43e7d948a5c7721eeae8695c\\output\\res\\drawable\\common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\emoji_hair1_press.png",
+        "source": "D:\\AndroidStudio_Work\\FamousPeople\\app\\src\\main\\res\\drawable\\emoji_hair1_press.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\LIUWEI\\.android\\build-cache\\ae9ee05ee0d3d5a484598b2f5fd2cbeb528ae167\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_twitter_1.png",
+        "source": "D:\\AndroidStudio_Work\\FamousPeople\\app\\src\\main\\res\\drawable\\btn_twitter_1.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\i_share_site_facebook_pressed.png",
+        "source": "D:\\AndroidStudio_Work\\FamousPeople\\app\\src\\main\\res\\drawable\\i_share_site_facebook_pressed.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\emoji_hair2.png",
+        "source": "D:\\AndroidStudio_Work\\FamousPeople\\app\\src\\main\\res\\drawable\\emoji_hair2.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\LIUWEI\\.android\\build-cache\\dddcede6e66ff96e43e7d948a5c7721eeae8695c\\output\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\emoji_hair3_press.png",
+        "source": "D:\\AndroidStudio_Work\\FamousPeople\\app\\src\\main\\res\\drawable\\emoji_hair3_press.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_connecting.xml",
+        "source": "C:\\Users\\LIUWEI\\.android\\build-cache\\e0c0be60ec046d41e1f00c85458e6a06ad3cac29\\output\\res\\drawable\\cast_ic_notification_connecting.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\LIUWEI\\.android\\build-cache\\ae9ee05ee0d3d5a484598b2f5fd2cbeb528ae167\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_skip_next.xml",
+        "source": "C:\\Users\\LIUWEI\\.android\\build-cache\\e5477cc9a3e9a418e04aa4a18e770fb135b73a36\\output\\res\\drawable\\cast_ic_notification_skip_next.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_launcher00.png",
+        "source": "D:\\AndroidStudio_Work\\FamousPeople\\app\\src\\main\\res\\drawable\\ic_launcher00.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\LIUWEI\\.android\\build-cache\\ae9ee05ee0d3d5a484598b2f5fd2cbeb528ae167\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_button_connecting_light.xml",
+        "source": "C:\\Users\\LIUWEI\\.android\\build-cache\\e14ab2e50c47053148cc4be8be31aafb39298dc1\\output\\res\\drawable\\mr_button_connecting_light.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\i_share_site_twitter_pressed.png",
+        "source": "D:\\AndroidStudio_Work\\FamousPeople\\app\\src\\main\\res\\drawable\\i_share_site_twitter_pressed.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_pause.xml",
+        "source": "C:\\Users\\LIUWEI\\.android\\build-cache\\e5477cc9a3e9a418e04aa4a18e770fb135b73a36\\output\\res\\drawable\\cast_ic_mini_controller_pause.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_dialog_material_background_dark.xml",
+        "source": "C:\\Users\\LIUWEI\\.android\\build-cache\\e14ab2e50c47053148cc4be8be31aafb39298dc1\\output\\res\\drawable\\mr_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\LIUWEI\\.android\\build-cache\\ae9ee05ee0d3d5a484598b2f5fd2cbeb528ae167\\output\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\result_c.png",
+        "source": "D:\\AndroidStudio_Work\\FamousPeople\\app\\src\\main\\res\\drawable\\result_c.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\LIUWEI\\.android\\build-cache\\ae9ee05ee0d3d5a484598b2f5fd2cbeb528ae167\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ad.png",
+        "source": "D:\\AndroidStudio_Work\\FamousPeople\\app\\src\\main\\res\\drawable\\ad.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_rewind30.xml",
+        "source": "C:\\Users\\LIUWEI\\.android\\build-cache\\e5477cc9a3e9a418e04aa4a18e770fb135b73a36\\output\\res\\drawable\\cast_ic_expanded_controller_rewind30.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\i_share_site_line_pressed.png",
+        "source": "D:\\AndroidStudio_Work\\FamousPeople\\app\\src\\main\\res\\drawable\\i_share_site_line_pressed.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\LIUWEI\\.android\\build-cache\\ae9ee05ee0d3d5a484598b2f5fd2cbeb528ae167\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cos_normal.png",
+        "source": "D:\\AndroidStudio_Work\\FamousPeople\\app\\src\\main\\res\\drawable\\cos_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_rewind10.xml",
+        "source": "C:\\Users\\LIUWEI\\.android\\build-cache\\e5477cc9a3e9a418e04aa4a18e770fb135b73a36\\output\\res\\drawable\\cast_ic_notification_rewind10.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_launcher.png",
+        "source": "D:\\AndroidStudio_Work\\FamousPeople\\app\\src\\main\\res\\drawable\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_group_collapse.xml",
+        "source": "C:\\Users\\LIUWEI\\.android\\build-cache\\e14ab2e50c47053148cc4be8be31aafb39298dc1\\output\\res\\drawable\\mr_group_collapse.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\LIUWEI\\.android\\build-cache\\ae9ee05ee0d3d5a484598b2f5fd2cbeb528ae167\\output\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_forward10.xml",
+        "source": "C:\\Users\\LIUWEI\\.android\\build-cache\\e5477cc9a3e9a418e04aa4a18e770fb135b73a36\\output\\res\\drawable\\cast_ic_notification_forward10.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\scope.png",
+        "source": "D:\\AndroidStudio_Work\\FamousPeople\\app\\src\\main\\res\\drawable\\scope.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\totalrankmark.png",
+        "source": "D:\\AndroidStudio_Work\\FamousPeople\\app\\src\\main\\res\\drawable\\totalrankmark.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_disabled.xml",
+        "source": "C:\\Users\\LIUWEI\\.android\\build-cache\\dddcede6e66ff96e43e7d948a5c7721eeae8695c\\output\\res\\drawable\\common_google_signin_btn_icon_disabled.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\view1bg.png",
+        "source": "D:\\AndroidStudio_Work\\FamousPeople\\app\\src\\main\\res\\drawable\\view1bg.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\view2title.png",
+        "source": "D:\\AndroidStudio_Work\\FamousPeople\\app\\src\\main\\res\\drawable\\view2title.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\splash.png",
+        "source": "D:\\AndroidStudio_Work\\FamousPeople\\app\\src\\main\\res\\drawable\\splash.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_skip_ad_label_border.xml",
+        "source": "C:\\Users\\LIUWEI\\.android\\build-cache\\e5477cc9a3e9a418e04aa4a18e770fb135b73a36\\output\\res\\drawable\\cast_skip_ad_label_border.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_skip_prev.xml",
+        "source": "C:\\Users\\LIUWEI\\.android\\build-cache\\e5477cc9a3e9a418e04aa4a18e770fb135b73a36\\output\\res\\drawable\\cast_ic_mini_controller_skip_prev.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\make_1.png",
+        "source": "D:\\AndroidStudio_Work\\FamousPeople\\app\\src\\main\\res\\drawable\\make_1.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_stop_large.xml",
+        "source": "C:\\Users\\LIUWEI\\.android\\build-cache\\e5477cc9a3e9a418e04aa4a18e770fb135b73a36\\output\\res\\drawable\\cast_ic_mini_controller_stop_large.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\emoji_entry_album_pressed.png",
+        "source": "D:\\AndroidStudio_Work\\FamousPeople\\app\\src\\main\\res\\drawable\\emoji_entry_album_pressed.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_forward30.xml",
+        "source": "C:\\Users\\LIUWEI\\.android\\build-cache\\e5477cc9a3e9a418e04aa4a18e770fb135b73a36\\output\\res\\drawable\\cast_ic_expanded_controller_forward30.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_rewind.xml",
+        "source": "C:\\Users\\LIUWEI\\.android\\build-cache\\e5477cc9a3e9a418e04aa4a18e770fb135b73a36\\output\\res\\drawable\\cast_ic_notification_rewind.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_closed_caption.xml",
+        "source": "C:\\Users\\LIUWEI\\.android\\build-cache\\e5477cc9a3e9a418e04aa4a18e770fb135b73a36\\output\\res\\drawable\\cast_ic_mini_controller_closed_caption.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\myrankmark.png",
+        "source": "D:\\AndroidStudio_Work\\FamousPeople\\app\\src\\main\\res\\drawable\\myrankmark.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\LIUWEI\\.android\\build-cache\\ae9ee05ee0d3d5a484598b2f5fd2cbeb528ae167\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_closed_caption.xml",
+        "source": "C:\\Users\\LIUWEI\\.android\\build-cache\\e5477cc9a3e9a418e04aa4a18e770fb135b73a36\\output\\res\\drawable\\cast_ic_expanded_controller_closed_caption.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\LIUWEI\\.android\\build-cache\\ae9ee05ee0d3d5a484598b2f5fd2cbeb528ae167\\output\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light_focused.xml",
+        "source": "C:\\Users\\LIUWEI\\.android\\build-cache\\dddcede6e66ff96e43e7d948a5c7721eeae8695c\\output\\res\\drawable\\common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\emoji_hair1.png",
+        "source": "D:\\AndroidStudio_Work\\FamousPeople\\app\\src\\main\\res\\drawable\\emoji_hair1.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light_normal.xml",
+        "source": "C:\\Users\\LIUWEI\\.android\\build-cache\\dddcede6e66ff96e43e7d948a5c7721eeae8695c\\output\\res\\drawable\\common_google_signin_btn_icon_light_normal.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark_focused.xml",
+        "source": "C:\\Users\\LIUWEI\\.android\\build-cache\\dddcede6e66ff96e43e7d948a5c7721eeae8695c\\output\\res\\drawable\\common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_rewind30.xml",
+        "source": "C:\\Users\\LIUWEI\\.android\\build-cache\\e5477cc9a3e9a418e04aa4a18e770fb135b73a36\\output\\res\\drawable\\cast_ic_notification_rewind30.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_mute.xml",
+        "source": "C:\\Users\\LIUWEI\\.android\\build-cache\\e5477cc9a3e9a418e04aa4a18e770fb135b73a36\\output\\res\\drawable\\cast_ic_expanded_controller_mute.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ranking_open_1.png",
+        "source": "D:\\AndroidStudio_Work\\FamousPeople\\app\\src\\main\\res\\drawable\\ranking_open_1.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\emoji_item_background_normal.png",
+        "source": "D:\\AndroidStudio_Work\\FamousPeople\\app\\src\\main\\res\\drawable\\emoji_item_background_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\LIUWEI\\.android\\build-cache\\ae9ee05ee0d3d5a484598b2f5fd2cbeb528ae167\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\LIUWEI\\.android\\build-cache\\ae9ee05ee0d3d5a484598b2f5fd2cbeb528ae167\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\text.png",
+        "source": "D:\\AndroidStudio_Work\\FamousPeople\\app\\src\\main\\res\\drawable\\text.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\LIUWEI\\.android\\build-cache\\ae9ee05ee0d3d5a484598b2f5fd2cbeb528ae167\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cell_delete_normal.png",
+        "source": "D:\\AndroidStudio_Work\\FamousPeople\\app\\src\\main\\res\\drawable\\cell_delete_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\LIUWEI\\.android\\build-cache\\ae9ee05ee0d3d5a484598b2f5fd2cbeb528ae167\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\emoji_back_normal.png",
+        "source": "D:\\AndroidStudio_Work\\FamousPeople\\app\\src\\main\\res\\drawable\\emoji_back_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\LIUWEI\\.android\\build-cache\\ae9ee05ee0d3d5a484598b2f5fd2cbeb528ae167\\output\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\result_d.png",
+        "source": "D:\\AndroidStudio_Work\\FamousPeople\\app\\src\\main\\res\\drawable\\result_d.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_skip_next.xml",
+        "source": "C:\\Users\\LIUWEI\\.android\\build-cache\\e5477cc9a3e9a418e04aa4a18e770fb135b73a36\\output\\res\\drawable\\cast_ic_mini_controller_skip_next.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\m_1.png",
+        "source": "D:\\AndroidStudio_Work\\FamousPeople\\app\\src\\main\\res\\drawable\\m_1.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\LIUWEI\\.android\\build-cache\\ae9ee05ee0d3d5a484598b2f5fd2cbeb528ae167\\output\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\v_0.png",
+        "source": "D:\\AndroidStudio_Work\\FamousPeople\\app\\src\\main\\res\\drawable\\v_0.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\start_0.png",
+        "source": "D:\\AndroidStudio_Work\\FamousPeople\\app\\src\\main\\res\\drawable\\start_0.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\r_signup_0.png",
+        "source": "D:\\AndroidStudio_Work\\FamousPeople\\app\\src\\main\\res\\drawable\\r_signup_0.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\LIUWEI\\.android\\build-cache\\ae9ee05ee0d3d5a484598b2f5fd2cbeb528ae167\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gif3_backbottom.png",
+        "source": "D:\\AndroidStudio_Work\\FamousPeople\\app\\src\\main\\res\\drawable\\gif3_backbottom.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\LIUWEI\\.android\\build-cache\\ae9ee05ee0d3d5a484598b2f5fd2cbeb528ae167\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_vol_type_audiotrack_dark.xml",
+        "source": "C:\\Users\\LIUWEI\\.android\\build-cache\\e14ab2e50c47053148cc4be8be31aafb39298dc1\\output\\res\\drawable\\mr_vol_type_audiotrack_dark.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_skip_next.xml",
+        "source": "C:\\Users\\LIUWEI\\.android\\build-cache\\e5477cc9a3e9a418e04aa4a18e770fb135b73a36\\output\\res\\drawable\\cast_ic_expanded_controller_skip_next.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo00.png",
+        "source": "D:\\AndroidStudio_Work\\FamousPeople\\app\\src\\main\\res\\drawable\\logo00.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ranking_close.png",
+        "source": "D:\\AndroidStudio_Work\\FamousPeople\\app\\src\\main\\res\\drawable\\ranking_close.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\recognitionresult_back1.png",
+        "source": "D:\\AndroidStudio_Work\\FamousPeople\\app\\src\\main\\res\\drawable\\recognitionresult_back1.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\main_button_4_pressed.png",
+        "source": "D:\\AndroidStudio_Work\\FamousPeople\\app\\src\\main\\res\\drawable\\main_button_4_pressed.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_button_connected_light.xml",
+        "source": "C:\\Users\\LIUWEI\\.android\\build-cache\\e14ab2e50c47053148cc4be8be31aafb39298dc1\\output\\res\\drawable\\mr_button_connected_light.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_stop.xml",
+        "source": "C:\\Users\\LIUWEI\\.android\\build-cache\\e5477cc9a3e9a418e04aa4a18e770fb135b73a36\\output\\res\\drawable\\cast_ic_expanded_controller_stop.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rogo_top.png",
+        "source": "D:\\AndroidStudio_Work\\FamousPeople\\app\\src\\main\\res\\drawable\\rogo_top.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\leftarrow_disabled.png",
+        "source": "D:\\AndroidStudio_Work\\FamousPeople\\app\\src\\main\\res\\drawable\\leftarrow_disabled.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\i_share_site_line_normal.png",
+        "source": "D:\\AndroidStudio_Work\\FamousPeople\\app\\src\\main\\res\\drawable\\i_share_site_line_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_twitter_0.png",
+        "source": "D:\\AndroidStudio_Work\\FamousPeople\\app\\src\\main\\res\\drawable\\btn_twitter_0.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_mini_controller_gradient_light.xml",
+        "source": "C:\\Users\\LIUWEI\\.android\\build-cache\\e5477cc9a3e9a418e04aa4a18e770fb135b73a36\\output\\res\\drawable\\cast_mini_controller_gradient_light.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\crown.png",
+        "source": "D:\\AndroidStudio_Work\\FamousPeople\\app\\src\\main\\res\\drawable\\crown.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_rewind30.xml",
+        "source": "C:\\Users\\LIUWEI\\.android\\build-cache\\e5477cc9a3e9a418e04aa4a18e770fb135b73a36\\output\\res\\drawable\\cast_ic_mini_controller_rewind30.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_vol_type_audiotrack_light.xml",
+        "source": "C:\\Users\\LIUWEI\\.android\\build-cache\\e14ab2e50c47053148cc4be8be31aafb39298dc1\\output\\res\\drawable\\mr_vol_type_audiotrack_light.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_skip_prev.xml",
+        "source": "C:\\Users\\LIUWEI\\.android\\build-cache\\e5477cc9a3e9a418e04aa4a18e770fb135b73a36\\output\\res\\drawable\\cast_ic_notification_skip_prev.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_line_1.png",
+        "source": "D:\\AndroidStudio_Work\\FamousPeople\\app\\src\\main\\res\\drawable\\btn_line_1.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\LIUWEI\\.android\\build-cache\\dddcede6e66ff96e43e7d948a5c7721eeae8695c\\output\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_forward30.xml",
+        "source": "C:\\Users\\LIUWEI\\.android\\build-cache\\e5477cc9a3e9a418e04aa4a18e770fb135b73a36\\output\\res\\drawable\\cast_ic_mini_controller_forward30.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark_focused.xml",
+        "source": "C:\\Users\\LIUWEI\\.android\\build-cache\\dddcede6e66ff96e43e7d948a5c7721eeae8695c\\output\\res\\drawable\\common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\LIUWEI\\.android\\build-cache\\ae9ee05ee0d3d5a484598b2f5fd2cbeb528ae167\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\result_click_btn.png",
+        "source": "D:\\AndroidStudio_Work\\FamousPeople\\app\\src\\main\\res\\drawable\\result_click_btn.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\LIUWEI\\.android\\build-cache\\ae9ee05ee0d3d5a484598b2f5fd2cbeb528ae167\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\LIUWEI\\.android\\build-cache\\ae9ee05ee0d3d5a484598b2f5fd2cbeb528ae167\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\camera_0.png",
+        "source": "D:\\AndroidStudio_Work\\FamousPeople\\app\\src\\main\\res\\drawable\\camera_0.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\result_e.png",
+        "source": "D:\\AndroidStudio_Work\\FamousPeople\\app\\src\\main\\res\\drawable\\result_e.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_forward.xml",
+        "source": "C:\\Users\\LIUWEI\\.android\\build-cache\\e5477cc9a3e9a418e04aa4a18e770fb135b73a36\\output\\res\\drawable\\cast_ic_notification_forward.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\LIUWEI\\.android\\build-cache\\ae9ee05ee0d3d5a484598b2f5fd2cbeb528ae167\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gif3_chkbtn_press.png",
+        "source": "D:\\AndroidStudio_Work\\FamousPeople\\app\\src\\main\\res\\drawable\\gif3_chkbtn_press.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\i_share_site_twitter_normal.png",
+        "source": "D:\\AndroidStudio_Work\\FamousPeople\\app\\src\\main\\res\\drawable\\i_share_site_twitter_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\emoji_hair4_press.png",
+        "source": "D:\\AndroidStudio_Work\\FamousPeople\\app\\src\\main\\res\\drawable\\emoji_hair4_press.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_facebook_1.png",
+        "source": "D:\\AndroidStudio_Work\\FamousPeople\\app\\src\\main\\res\\drawable\\btn_facebook_1.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\b_0.png",
+        "source": "D:\\AndroidStudio_Work\\FamousPeople\\app\\src\\main\\res\\drawable\\b_0.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\doctor.png",
+        "source": "D:\\AndroidStudio_Work\\FamousPeople\\app\\src\\main\\res\\drawable\\doctor.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_play.xml",
+        "source": "C:\\Users\\LIUWEI\\.android\\build-cache\\e5477cc9a3e9a418e04aa4a18e770fb135b73a36\\output\\res\\drawable\\cast_ic_mini_controller_play.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_mini_controller_progress_drawable.xml",
+        "source": "C:\\Users\\LIUWEI\\.android\\build-cache\\e5477cc9a3e9a418e04aa4a18e770fb135b73a36\\output\\res\\drawable\\cast_mini_controller_progress_drawable.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_media_play_light.xml",
+        "source": "C:\\Users\\LIUWEI\\.android\\build-cache\\e14ab2e50c47053148cc4be8be31aafb39298dc1\\output\\res\\drawable\\mr_media_play_light.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\emoji_share_quit_btn_pressed.png",
+        "source": "D:\\AndroidStudio_Work\\FamousPeople\\app\\src\\main\\res\\drawable\\emoji_share_quit_btn_pressed.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\string.png",
+        "source": "D:\\AndroidStudio_Work\\FamousPeople\\app\\src\\main\\res\\drawable\\string.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\make_0.png",
+        "source": "D:\\AndroidStudio_Work\\FamousPeople\\app\\src\\main\\res\\drawable\\make_0.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\i_share_site_mail_normal.png",
+        "source": "D:\\AndroidStudio_Work\\FamousPeople\\app\\src\\main\\res\\drawable\\i_share_site_mail_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_media_pause_light.xml",
+        "source": "C:\\Users\\LIUWEI\\.android\\build-cache\\e14ab2e50c47053148cc4be8be31aafb39298dc1\\output\\res\\drawable\\mr_media_pause_light.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\LIUWEI\\.android\\build-cache\\ae9ee05ee0d3d5a484598b2f5fd2cbeb528ae167\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\synchro.png",
+        "source": "D:\\AndroidStudio_Work\\FamousPeople\\app\\src\\main\\res\\drawable\\synchro.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\leftarrow_normal.png",
+        "source": "D:\\AndroidStudio_Work\\FamousPeople\\app\\src\\main\\res\\drawable\\leftarrow_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\w_1.png",
+        "source": "D:\\AndroidStudio_Work\\FamousPeople\\app\\src\\main\\res\\drawable\\w_1.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\s_1.png",
+        "source": "D:\\AndroidStudio_Work\\FamousPeople\\app\\src\\main\\res\\drawable\\s_1.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ranking_mar.png",
+        "source": "D:\\AndroidStudio_Work\\FamousPeople\\app\\src\\main\\res\\drawable\\ranking_mar.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ranking_lock.png",
+        "source": "D:\\AndroidStudio_Work\\FamousPeople\\app\\src\\main\\res\\drawable\\ranking_lock.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\album_1.png",
+        "source": "D:\\AndroidStudio_Work\\FamousPeople\\app\\src\\main\\res\\drawable\\album_1.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rightarrow_normal.png",
+        "source": "D:\\AndroidStudio_Work\\FamousPeople\\app\\src\\main\\res\\drawable\\rightarrow_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_pause_large.xml",
+        "source": "C:\\Users\\LIUWEI\\.android\\build-cache\\e5477cc9a3e9a418e04aa4a18e770fb135b73a36\\output\\res\\drawable\\cast_ic_mini_controller_pause_large.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\doctor2.png",
+        "source": "D:\\AndroidStudio_Work\\FamousPeople\\app\\src\\main\\res\\drawable\\doctor2.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\result_z.png",
+        "source": "D:\\AndroidStudio_Work\\FamousPeople\\app\\src\\main\\res\\drawable\\result_z.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\maskbottom1.png",
+        "source": "D:\\AndroidStudio_Work\\FamousPeople\\app\\src\\main\\res\\drawable\\maskbottom1.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_pause.xml",
+        "source": "C:\\Users\\LIUWEI\\.android\\build-cache\\e5477cc9a3e9a418e04aa4a18e770fb135b73a36\\output\\res\\drawable\\cast_ic_notification_pause.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_play.xml",
+        "source": "C:\\Users\\LIUWEI\\.android\\build-cache\\e5477cc9a3e9a418e04aa4a18e770fb135b73a36\\output\\res\\drawable\\cast_ic_notification_play.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\search.png",
+        "source": "D:\\AndroidStudio_Work\\FamousPeople\\app\\src\\main\\res\\drawable\\search.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_mute.xml",
+        "source": "C:\\Users\\LIUWEI\\.android\\build-cache\\e5477cc9a3e9a418e04aa4a18e770fb135b73a36\\output\\res\\drawable\\cast_ic_mini_controller_mute.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_expanded_controller_actionbar_bg_gradient_light.xml",
+        "source": "C:\\Users\\LIUWEI\\.android\\build-cache\\e5477cc9a3e9a418e04aa4a18e770fb135b73a36\\output\\res\\drawable\\cast_expanded_controller_actionbar_bg_gradient_light.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\emoji_hair3.png",
+        "source": "D:\\AndroidStudio_Work\\FamousPeople\\app\\src\\main\\res\\drawable\\emoji_hair3.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\LIUWEI\\.android\\build-cache\\ae9ee05ee0d3d5a484598b2f5fd2cbeb528ae167\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\result_b.png",
+        "source": "D:\\AndroidStudio_Work\\FamousPeople\\app\\src\\main\\res\\drawable\\result_b.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_dialog_close_light.xml",
+        "source": "C:\\Users\\LIUWEI\\.android\\build-cache\\e14ab2e50c47053148cc4be8be31aafb39298dc1\\output\\res\\drawable\\mr_dialog_close_light.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\LIUWEI\\.android\\build-cache\\ae9ee05ee0d3d5a484598b2f5fd2cbeb528ae167\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\LIUWEI\\.android\\build-cache\\ae9ee05ee0d3d5a484598b2f5fd2cbeb528ae167\\output\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\emoji_hair4.png",
+        "source": "D:\\AndroidStudio_Work\\FamousPeople\\app\\src\\main\\res\\drawable\\emoji_hair4.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\main_button_4.png",
+        "source": "D:\\AndroidStudio_Work\\FamousPeople\\app\\src\\main\\res\\drawable\\main_button_4.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\LIUWEI\\.android\\build-cache\\ae9ee05ee0d3d5a484598b2f5fd2cbeb528ae167\\output\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_button_connecting_dark.xml",
+        "source": "C:\\Users\\LIUWEI\\.android\\build-cache\\e14ab2e50c47053148cc4be8be31aafb39298dc1\\output\\res\\drawable\\mr_button_connecting_dark.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cos_checked.png",
+        "source": "D:\\AndroidStudio_Work\\FamousPeople\\app\\src\\main\\res\\drawable\\cos_checked.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\LIUWEI\\.android\\build-cache\\ae9ee05ee0d3d5a484598b2f5fd2cbeb528ae167\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\emoji_class.png",
+        "source": "D:\\AndroidStudio_Work\\FamousPeople\\app\\src\\main\\res\\drawable\\emoji_class.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\i_share_site_facebook_normal.png",
+        "source": "D:\\AndroidStudio_Work\\FamousPeople\\app\\src\\main\\res\\drawable\\i_share_site_facebook_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rightarrow_pressed.png",
+        "source": "D:\\AndroidStudio_Work\\FamousPeople\\app\\src\\main\\res\\drawable\\rightarrow_pressed.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_pause.xml",
+        "source": "C:\\Users\\LIUWEI\\.android\\build-cache\\e5477cc9a3e9a418e04aa4a18e770fb135b73a36\\output\\res\\drawable\\cast_ic_expanded_controller_pause.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo000.png",
+        "source": "D:\\AndroidStudio_Work\\FamousPeople\\app\\src\\main\\res\\drawable\\logo000.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo2.png",
+        "source": "D:\\AndroidStudio_Work\\FamousPeople\\app\\src\\main\\res\\drawable\\logo2.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\test.png",
+        "source": "D:\\AndroidStudio_Work\\FamousPeople\\app\\src\\main\\res\\drawable\\test.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light_focused.xml",
+        "source": "C:\\Users\\LIUWEI\\.android\\build-cache\\dddcede6e66ff96e43e7d948a5c7721eeae8695c\\output\\res\\drawable\\common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_disabled.xml",
+        "source": "C:\\Users\\LIUWEI\\.android\\build-cache\\dddcede6e66ff96e43e7d948a5c7721eeae8695c\\output\\res\\drawable\\common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rightarrow_disabled.png",
+        "source": "D:\\AndroidStudio_Work\\FamousPeople\\app\\src\\main\\res\\drawable\\rightarrow_disabled.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo.png",
+        "source": "D:\\AndroidStudio_Work\\FamousPeople\\app\\src\\main\\res\\drawable\\logo.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark_normal.xml",
+        "source": "C:\\Users\\LIUWEI\\.android\\build-cache\\dddcede6e66ff96e43e7d948a5c7721eeae8695c\\output\\res\\drawable\\common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark_normal.xml",
+        "source": "C:\\Users\\LIUWEI\\.android\\build-cache\\dddcede6e66ff96e43e7d948a5c7721eeae8695c\\output\\res\\drawable\\common_google_signin_btn_icon_dark_normal.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_play_large.xml",
+        "source": "C:\\Users\\LIUWEI\\.android\\build-cache\\e5477cc9a3e9a418e04aa4a18e770fb135b73a36\\output\\res\\drawable\\cast_ic_mini_controller_play_large.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_group_expand.xml",
+        "source": "C:\\Users\\LIUWEI\\.android\\build-cache\\e14ab2e50c47053148cc4be8be31aafb39298dc1\\output\\res\\drawable\\mr_group_expand.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_media_play_dark.xml",
+        "source": "C:\\Users\\LIUWEI\\.android\\build-cache\\e14ab2e50c47053148cc4be8be31aafb39298dc1\\output\\res\\drawable\\mr_media_play_dark.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_dialog_material_background_light.xml",
+        "source": "C:\\Users\\LIUWEI\\.android\\build-cache\\e14ab2e50c47053148cc4be8be31aafb39298dc1\\output\\res\\drawable\\mr_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\LIUWEI\\.android\\build-cache\\ae9ee05ee0d3d5a484598b2f5fd2cbeb528ae167\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_expanded_controller_seekbar_thumb.xml",
+        "source": "C:\\Users\\LIUWEI\\.android\\build-cache\\e5477cc9a3e9a418e04aa4a18e770fb135b73a36\\output\\res\\drawable\\cast_expanded_controller_seekbar_thumb.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cell_delete_pressed.png",
+        "source": "D:\\AndroidStudio_Work\\FamousPeople\\app\\src\\main\\res\\drawable\\cell_delete_pressed.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\i_share_site_mail_pressed.png",
+        "source": "D:\\AndroidStudio_Work\\FamousPeople\\app\\src\\main\\res\\drawable\\i_share_site_mail_pressed.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\leftarrow_pressed.png",
+        "source": "D:\\AndroidStudio_Work\\FamousPeople\\app\\src\\main\\res\\drawable\\leftarrow_pressed.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\result_s.png",
+        "source": "D:\\AndroidStudio_Work\\FamousPeople\\app\\src\\main\\res\\drawable\\result_s.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\emoji_item_background_press.png",
+        "source": "D:\\AndroidStudio_Work\\FamousPeople\\app\\src\\main\\res\\drawable\\emoji_item_background_press.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_disconnect.xml",
+        "source": "C:\\Users\\LIUWEI\\.android\\build-cache\\e5477cc9a3e9a418e04aa4a18e770fb135b73a36\\output\\res\\drawable\\cast_ic_notification_disconnect.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_expanded_controller_bg_gradient_light.xml",
+        "source": "C:\\Users\\LIUWEI\\.android\\build-cache\\e5477cc9a3e9a418e04aa4a18e770fb135b73a36\\output\\res\\drawable\\cast_expanded_controller_bg_gradient_light.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_skip_previous.xml",
+        "source": "C:\\Users\\LIUWEI\\.android\\build-cache\\e5477cc9a3e9a418e04aa4a18e770fb135b73a36\\output\\res\\drawable\\cast_ic_expanded_controller_skip_previous.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_button_light.xml",
+        "source": "C:\\Users\\LIUWEI\\.android\\build-cache\\e14ab2e50c47053148cc4be8be31aafb39298dc1\\output\\res\\drawable\\mr_button_light.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_facebook_0.png",
+        "source": "D:\\AndroidStudio_Work\\FamousPeople\\app\\src\\main\\res\\drawable\\btn_facebook_0.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\result_a.png",
+        "source": "D:\\AndroidStudio_Work\\FamousPeople\\app\\src\\main\\res\\drawable\\result_a.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\page_logo.png",
+        "source": "D:\\AndroidStudio_Work\\FamousPeople\\app\\src\\main\\res\\drawable\\page_logo.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\LIUWEI\\.android\\build-cache\\ae9ee05ee0d3d5a484598b2f5fd2cbeb528ae167\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Work\\FamousPeople\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gif3_chkbtn.png",
+        "source": "D:\\AndroidStudio_Work\\FamousPeople\\app\\src\\main\\res\\drawable\\gif3_chkbtn.png"
+    }
+]

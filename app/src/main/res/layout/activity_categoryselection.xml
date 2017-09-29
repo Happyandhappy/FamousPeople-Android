@@ -1,0 +1,229 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".FSCategorySelectionActivity" >
+    
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#FFFFFF"
+        android:orientation="vertical" >
+        
+	    <LinearLayout
+	        android:layout_width="match_parent"
+	        android:layout_height="0dp"
+	        android:layout_weight="1.0"
+	        android:orientation="vertical" >
+	        
+	           <LinearLayout
+		        android:layout_width="match_parent"
+		        android:layout_height="0dp"
+	        	android:layout_weight="0.23"
+		        android:orientation="vertical" />
+	         
+	           <LinearLayout
+	               android:layout_width="match_parent"
+	               android:layout_height="80dp"
+	               android:orientation="horizontal" >
+
+			        <LinearLayout
+			        android:layout_width="0dp"
+			        android:layout_height="match_parent"
+			        android:layout_weight="0.5"
+			        android:orientation="vertical"/>
+
+			        <Button
+			            android:id="@+id/allbtn"
+			            android:layout_width="300dp"
+			            android:layout_height="match_parent"
+			            android:text="全てから診断"
+			            android:textSize="30dp" />
+		        	
+					<LinearLayout
+			        android:layout_width="0dp"
+			        android:layout_height="match_parent"
+			        android:layout_weight="0.5"
+			        android:orientation="vertical"/>
+		        </LinearLayout>
+	          
+	           <LinearLayout
+		        android:layout_width="match_parent"
+		         android:layout_height="0dp"
+	        	android:layout_weight="0.1"
+		        android:orientation="vertical" />
+	           
+	            <LinearLayout
+	                android:layout_width="match_parent"
+	                android:layout_height="130dp"
+	                android:orientation="horizontal" >
+
+	              <LinearLayout
+			        android:layout_width="0dp"
+			        android:layout_height="match_parent"
+			        android:layout_weight="0.5"
+			        android:orientation="vertical"/>
+
+                 <LinearLayout
+                     android:layout_width="300dp"
+                     android:layout_height="match_parent"
+                     android:orientation="vertical" >
+			        
+                   <TextView
+                       android:id="@+id/textView2"
+                       android:layout_width="match_parent"
+                       android:layout_height="50dp"
+                       android:gravity="center"
+                       android:text="カテゴリ別から診断"
+                       android:textAppearance="?android:attr/textAppearanceSmall"
+                       android:textColor="#ff365490"
+                       android:textSize="30dp" />
+	               
+	                <Spinner
+	                    android:id="@+id/spinner_key1"
+	                    android:layout_width="match_parent"
+	                    android:layout_height="70dp"
+	                    android:paddingLeft="10dp"
+	                    android:spinnerMode="dropdown"
+	                    android:textSize="30dp" />
+
+	              </LinearLayout>
+		                
+					<LinearLayout
+			        android:layout_width="0dp"
+			        android:layout_height="match_parent"
+			        android:layout_weight="0.5"
+			        android:orientation="vertical"/>
+				</LinearLayout>
+	            
+	            <LinearLayout
+		        android:layout_width="match_parent"
+		        android:layout_height="0dp"
+	        	android:layout_weight="0.24"
+		        android:orientation="vertical" />
+	         
+	           <LinearLayout
+	               android:layout_width="match_parent"
+	               android:layout_height="130dp"
+	               android:orientation="horizontal" >
+
+	              <LinearLayout
+			        android:layout_width="0dp"
+			        android:layout_height="match_parent"
+			        android:layout_weight="0.5"
+			        android:orientation="vertical"/>
+	              
+		              <LinearLayout
+		                  android:layout_width="300dp"
+		                  android:layout_height="match_parent"
+		                  android:orientation="vertical" >
+
+				         <TextView
+				             android:id="@+id/textView3"
+				             android:layout_width="match_parent"
+				             android:layout_height="50dp"
+				             android:gravity="center_horizontal"
+				             android:text="人気グループから診断"
+				             android:textColor="#ff365490"
+				             android:textSize="30dp" />
+				         
+				          <Spinner
+				              android:id="@+id/spinner_key2"
+				              android:layout_width="match_parent"
+				              android:layout_height="70dp"
+				              android:gravity="center_vertical|center_horizontal|center"
+				              android:paddingLeft="10dp"
+				              android:spinnerMode="dropdown"
+				              android:textSize="30dp" />
+				        
+			          </LinearLayout>
+					<LinearLayout
+			        android:layout_width="0dp"
+			        android:layout_height="match_parent"
+			        android:layout_weight="0.5"
+			        android:orientation="vertical"/>
+				</LinearLayout>
+	          
+	           <LinearLayout
+		        android:layout_width="match_parent"
+		         android:layout_height="0dp"
+	        	android:layout_weight="0.23"
+		        android:orientation="vertical" />
+	           
+	            <LinearLayout
+	                android:layout_width="match_parent"
+	                android:layout_height="50dp"
+	                android:orientation="horizontal" >
+
+	              <LinearLayout
+			        android:layout_width="0dp"
+			        android:layout_height="match_parent"
+			        android:layout_weight="0.5"
+			        android:orientation="vertical"/>
+		        	 <CheckBox
+				        android:id="@+id/checkbox_rare"
+				        android:layout_width="wrap_content"
+				        android:layout_height="wrap_content"
+				        android:textSize="30dp"
+				        android:text="知名度が高い人限定"
+				        android:textColor="#ff365490" />
+					<LinearLayout
+			        android:layout_width="0dp"
+			        android:layout_height="match_parent"
+			        android:layout_weight="0.5"
+			        android:orientation="vertical"/>
+				</LinearLayout>
+	            
+	            <LinearLayout
+		        android:layout_width="match_parent"
+		        android:layout_height="0dp"
+	        	android:layout_weight="0.1"
+		        android:orientation="vertical" />
+	         
+	           <LinearLayout
+		        android:layout_width="match_parent"
+		        android:layout_height="84dp"
+		        android:orientation="horizontal" >
+					
+	              <LinearLayout
+			        android:layout_width="0dp"
+			        android:layout_height="match_parent"
+			        android:layout_weight="0.5"
+			        android:orientation="vertical"/>
+	              
+	              <Button
+	                  android:id="@+id/btn_ok"
+	                  android:layout_width="match_parent"
+	                  android:layout_height="match_parent"
+	                  android:background="#00ffffff"
+	                  android:text="次へ"
+	                  android:textColor="#ffa40090"
+	                  android:textSize="30dp"
+	                  android:textStyle="bold" />
+		        	
+					<LinearLayout
+			        android:layout_width="0dp"
+			        android:layout_height="match_parent"
+			        android:layout_weight="0.5"
+			        android:orientation="vertical"/>
+				</LinearLayout>
+	          
+	           <LinearLayout
+		        android:layout_width="match_parent"
+		         android:layout_height="0dp"
+	        	android:layout_weight="0.1"
+		        android:orientation="vertical" />
+	        
+	    </LinearLayout>
+	    
+	    <LinearLayout
+	        android:id="@+id/LinearLayoutInterstitialBottom"
+	        android:layout_width="match_parent"
+	        android:layout_height="57dp"
+	        android:background="#FF8877"
+	        android:orientation="horizontal" >
+
+        </LinearLayout>
+	
+     </LinearLayout>
+</RelativeLayout>

@@ -1,0 +1,194 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/gif3_backtop"
+    android:orientation="vertical"
+    tools:context=".GifFaceMaskActivity" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:orientation="horizontal" >
+        </LinearLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="50dp" >
+
+            <ImageButton
+                android:id="@+id/backbtnmask"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentTop="true"
+                android:layout_marginLeft="10dp"
+                android:background="@xml/button_emoji_back"
+                android:scaleType="fitXY"
+                 />
+        </RelativeLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:orientation="horizontal" >
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" >
+
+            <LinearLayout
+                android:layout_width="50dp"
+                android:layout_height="match_parent"
+                android:orientation="vertical" >
+            </LinearLayout>
+
+            <ImageView
+                android:id="@+id/maskImageView"
+                android:layout_width="0dp"
+                android:layout_height="fill_parent"
+                android:layout_weight="1"
+                android:scaleType="fitCenter"
+                android:src="@drawable/page_logo" />
+
+            <LinearLayout
+                android:layout_width="50dp"
+                android:layout_height="match_parent"
+                android:orientation="vertical" >
+            </LinearLayout>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:orientation="horizontal" >
+        </LinearLayout>
+
+    </LinearLayout>
+      
+      <RelativeLayout
+          android:layout_width="match_parent"
+          android:layout_height="85dp" >
+           
+               <ImageView
+                   android:id="@+id/rareImageView"
+                   android:layout_width="match_parent"
+                   android:layout_height="30dp"
+                   android:layout_alignParentBottom="true"
+                   android:scaleType="fitXY"
+                   android:src="@drawable/maskbottom1" />
+           
+        <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal">
+        
+	            <LinearLayout
+		        android:layout_width="0dp"
+		        android:layout_height="match_parent"
+		        android:layout_weight="1"
+		        android:orientation="horizontal"/>
+
+	            <ImageButton
+	                android:id="@+id/maskbtn01"
+	               	android:layout_width="70dp"
+		        	android:layout_height="79dp"
+	                android:background="@android:color/transparent"
+	                android:scaleType="fitXY"
+	                android:src="@drawable/emoji_hair1" />
+	        
+	            <LinearLayout
+		        android:layout_width="0dp"
+		        android:layout_height="match_parent"
+		        android:layout_weight="1"
+		        android:orientation="horizontal"/>
+
+	            <ImageButton
+	                android:id="@+id/maskbtn02"
+	            	android:layout_width="70dp"
+		        	android:layout_height="79dp"
+	                android:background="@android:color/transparent"
+	                android:scaleType="fitXY"
+	                android:src="@drawable/emoji_hair2"/>
+		    
+	            <LinearLayout
+		        android:layout_width="0dp"
+		        android:layout_height="match_parent"
+		        android:layout_weight="1"
+		        android:orientation="horizontal"/>
+		
+		    	<ImageButton
+		          android:id="@+id/maskbtn03"
+		          android:layout_width="70dp"
+		          android:layout_height="79dp"
+		          android:background="@android:color/transparent"
+	              android:scaleType="fitXY"
+	              android:src="@drawable/emoji_hair3"/>
+		    
+	            <LinearLayout
+		        android:layout_width="0dp"
+		        android:layout_height="match_parent"
+		        android:layout_weight="1"
+		        android:orientation="horizontal"/>
+		
+		    <ImageButton
+		        android:id="@+id/maskbtn04"
+		       android:layout_width="70dp"
+		        android:layout_height="79dp"
+		        android:background="@android:color/transparent"
+                android:scaleType="fitXY"
+                android:src="@drawable/emoji_hair4"/>
+		    
+		       <LinearLayout
+		        android:layout_width="0dp"
+		        android:layout_height="match_parent"
+		        android:layout_weight="1"
+		        android:orientation="horizontal"/>
+        </LinearLayout>
+
+   
+
+      </RelativeLayout>
+    
+      <LinearLayout
+          android:layout_width="match_parent"
+          android:layout_height="100dp"
+          android:orientation="horizontal" >
+        
+          <LinearLayout
+	        android:layout_width="0dp"
+	        android:layout_height="match_parent"
+	        android:layout_weight="1"
+	        android:orientation="horizontal"/>
+          
+	           <RelativeLayout
+	               android:layout_width="match_parent"
+	               android:layout_height="match_parent"
+	               android:background="#D76145" >
+
+		          <ImageButton
+		              android:id="@+id/okbtn"
+		              android:layout_width="150dp"
+		              android:layout_height="78dp"
+		              android:layout_centerHorizontal="true"
+		              android:layout_centerVertical="true"
+		              android:background="@xml/button_mask_ok"
+		              android:scaleType="fitXY"
+		               />
+
+	           </RelativeLayout>
+           <LinearLayout
+	        android:layout_width="0dp"
+	        android:layout_height="36dp"
+	        android:layout_weight="1"
+	        android:orientation="horizontal"/>
+     </LinearLayout>
+</LinearLayout>
